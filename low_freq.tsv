@@ -1,0 +1,35 @@
+	ortho	phon	lemme	cgram	genre	nombre	freqlemfilms2	freqlemlivres	freqfilms2	freqlivres	infover	nbhomogr	nbhomoph	islem	nblettres	nbphons	cvcv	p_cvcv	voisorth	voisphon	puorth	puphon	syll	nbsyll	cv-cv	orthrenv	phonrenv	orthosyll	cgramortho	deflem	defobs	old20	pld20	morphoder	nbmorph	log_freqlivres
+4209	alarme	alaRm	alarme	NOM	f	s	19.29	7.84	16.71	6.35		2	4	1	6	5	VCVCCV	VCVCC	2	0	6	5	a-laRm	2	V-CVCC	emrala	mRala	a-lar-me	NOM,VER	100.0	24.0	1.65	1.7	alarme	1	1.8484548129046001
+11345	auvent	ov@	auvent	NOM	m	s	0.46	6.89	0.31	6.28		1	2	1	6	3	VVCVCC	VCV	1	9	5	3	o-v@	2	V-CV	tnevua	@vo	au-vent	NOM	89.0	29.0	1.8	1.4	auvent	1	1.8373699804801074
+11816	avoine	avwan	avoine	NOM	f	s	1.54	6.96	1.52	6.35		1	2	1	6	5	VCVVCV	VCYVC	0	2	6	5	a-vwan	2	V-CYVC	eniova	nawva	a-voi-ne	NOM	94.0	18.0	1.9	1.7	avoine	1	1.8484548129046001
+16415	bouffe	buf	bouffe	NOM	f	s	14.51	7.36	14.4	6.62		3	8	1	6	3	CVVCCV	CVC	5	21	6	3	buf	1	CVC	effuob	fub	bouf-fe	ADJ,NOM,VER	100.0	20.0	1.5	1.0	bouffer	1	1.890095369948917
+19525	cadran	kadR@	cadran	NOM	m	s	1.58	7.7	1.42	6.55		1	3	1	6	5	CVCCVC	CVCCV	0	4	6	5	ka-dR@	2	CV-CCV	nardac	@Rdak	ca-dran	NOM	100.0	17.0	1.9	1.6	cadran	1	1.8794650496471605
+24686	chèque	SEk	chèque	NOM	m	s	32.03	9.86	23.86	6.01		1	6	1	6	3	CCVCVV	CVC	3	19	6	3	SEk	1	CVC	euqèhc	kES	chè-que	NOM	100.0	20.0	1.75	1.0	chèque	1	1.7934247485471162
+24720	chérif	SeRif	chérif	NOM	m	s	0.2	6.69	0.2	6.69		1	3	1	6	5	CCVCVC	CVCVC	6	6	6	5	Se-Rif	2	CV-CVC	firéhc	fiReS	ché-rif	NOM	52.0	17.0	1.95	1.65	chérif	1	1.900613874140137
+36142	devise	d°viz	devise	NOM	f	s	5.54	7.77	4.75	6.22		2	4	1	6	5	CVCVCV	CVCVC	3	2	6	5	d°-viz	2	CV-CVC	esived	ziv°d	de-vi-se	NOM,VER	100.0	19.0	1.7	1.7	devise	1	1.827769906751088
+38659	doudou	dudu	doudou	NOM	f	s	0.58	6.76	0.58	6.76		1	1	1	6	4	CVVCVV	CVCV	1	1	6	4	du-du	2	CV-CV	uoduod	udud	dou-dou	NOM	95.0	21.0	1.95	1.9	doudou	1	1.9110228900548727
+41252	décret	dekRE	décret	NOM	m	s	4.06	9.12	3.54	6.42		1	2	1	6	5	CVCCVC	CVCCV	4	2	6	5	de-kRE	2	CV-CCV	tercéd	ERked	dé-cret	NOM	100.0	21.0	1.75	1.7	décret	1	1.8594181177018698
+41614	déesse	deEs	déesse	NOM	f	s	13.56	8.65	11.82	6.42		1	2	1	6	4	CVVCCV	CVVC	1	1	3	4	de-Es	2	CV-VC	esseéd	sEed	dées-se	NOM	85.0	21.0	1.85	1.8	déesse	1	1.8594181177018698
+44602	député	depyte	député	NOM	m	s	10.4	10.88	7.4	6.42		1	5	1	6	6	CVCVCV	CVCVCV	4	5	6	6	de-py-te	3	CV-CV-CV	étupéd	etyped	dé-pu-té	NOM	96.0	25.0	1.7	1.75	député	1	1.8594181177018698
+51037	entier	@tje	entier	NOM	m	s	3.76	6.28	3.59	6.01		2	4	1	6	4	VCCVVC	VCYV	2	4	5	4	@-tje	2	V-CYV	reitne	ejt@	en-tier	ADJ,NOM	89.0	19.0	1.65	1.25	entier	1	1.7934247485471162
+58710	foutre	futR	foutre	NOM	m	s	3.62	6.42	3.62	6.42		2	2	1	6	4	CVVCCV	CVCC	9	14	6	4	futR	1	CVCC	ertuof	Rtuf	fou-tre	NOM,VER	100.0	19.0	1.4	1.0	foutre	1	1.8594181177018698
+60936	galère	galER	galer	NOM	f	s	8.12	10.47	8.12	6.08		2	6	0	6	5	CVCVCV	CVCVC	2	12	5	0	ga-lER	2	CV-CVC	erèlag	RElag	ga-lè-re	NOM,VER			1.85	1.2	galer	1	1.8050046959780757
+64547	guidon	gid§	guidon	NOM	m	s	1.27	7.03	1.26	6.15		1	3	1	6	4	CVVCVC	CVCV	0	7	5	4	gi-d§	2	CV-CV	nodiug	§dig	gui-don	NOM	91.0	23.0	1.95	1.55	guidon	1	1.8164520818184267
+73384	invité	5vite	invité	NOM	m	s	41.19	27.16	12.06	6.08		3	14	1	6	5	VCCVCV	VCVCV	3	7	6	5	5-vi-te	3	V-CV-CV	étivni	etiv5	in-vi-té	VER,ADJ,NOM	95.0	24.0	1.75	1.5	invité	1	1.8050046959780757
+75615	lagune	lagyn	lagune	NOM	f	s	2.84	8.92	2.4	6.69		1	2	1	6	5	CVCVCV	CVCVC	1	1	6	5	la-gyn	2	CV-CVC	enugal	nygal	la-gu-ne	NOM	91.0	12.0	1.9	1.95	lagune	1	1.900613874140137
+76889	lierre	ljER	lierre	NOM	m	s	0.43	6.35	0.42	6.08		1	3	1	6	4	CVVCCV	CYVC	1	13	5	4	ljER	1	CYVC	erreil	REjl	lier-re	NOM	100.0	25.0	1.9	1.15	lierre	1	1.8050046959780757
+84223	morgue	mORg	morgue	NOM	f	s	10.12	7.03	9.95	6.76		1	2	1	6	4	CVCCVV	CVCC	1	7	5	4	mORg	1	CVCC	eugrom	gROm	mor-gue	NOM	96.0	28.0	1.8	1.5	morgue	1	1.9110228900548727
+90336	organe	ORgan	organe	NOM	m	s	13.69	15.68	3.14	6.55		1	2	1	6	5	VCCVCV	VCCVC	0	0	6	5	OR-gan	2	VC-CVC	enagro	nagRO	or-ga-ne	NOM	100.0	19.0	1.9	1.9	organe	1	1.8794650496471605
+92359	pareil	paREj	pareil	NOM	m	s	12.92	16.96	4.9	6.08		3	9	1	6	5	CVCVVC	CVCVY	0	2	6	5	pa-REj	2	CV-CVY	lierap	jERap	pa-reil	ADJ,ADV,NOM	95.0	24.0	1.95	1.8	pareil	1	1.8050046959780757
+95664	pignon	piN§	pignon	NOM	m	s	4.94	8.31	4.79	6.55		1	2	1	6	4	CVCCVC	CVCV	6	16	6	4	pi-N§	2	CV-CV	nongip	§Nip	pi-gnon	NOM	87.0	24.0	1.65	1.15	pignon	1	1.8794650496471605
+95828	pinard	pinaR	pinard	NOM	m	s	0.39	6.89	0.39	6.76		1	2	1	6	5	CVCVCC	CVCVC	3	8	6	5	pi-naR	2	CV-CVC	dranip	Ranip	pi-nard	NOM	86.0	29.0	1.65	1.5	pinard	1	1.9110228900548727
+96092	piqûre	pikyR	piqûre	NOM	f	s	11.41	10.95	7.59	6.08		1	2	1	6	5	CVCVCV	CVCVC	0	4	4	4	pi-kyR	2	CV-CVC	erûqip	Rykip	pi-qû-re	NOM	95.0	21.0	2.45	1.8	piqûre	1	1.8050046959780757
+97720	poivre	pwavR	poivre	NOM	m	s	3.8	6.89	3.79	6.69		2	5	1	6	5	CVVCCV	CYVCC	2	1	6	5	pwavR	1	CYVCC	erviop	Rvawp	poi-vre	NOM,VER	95.0	24.0	1.65	1.65	poivre	1	1.900613874140137
+98822	potage	potaZ	potage	NOM	m	s	3.28	6.22	3.07	6.01		1	2	1	6	5	CVCVCV	CVCVC	0	6	6	5	po-taZ	2	CV-CVC	egatop	Zatop	po-ta-ge	NOM	100.0	25.0	1.7	1.6	potage	1	1.7934247485471162
+104436	rabbin	Rab5	rabbin	NOM	m	s	9.36	7.57	9.04	6.35		1	2	1	6	4	CVCCVC	CVCV	1	12	6	4	Ra-b5	2	CV-CV	nibbar	5baR	rab-bin	NOM	94.0	17.0	1.85	1.3	rabbin	1	1.8484548129046001
+109117	relève	R°lEv	relève	NOM	f	s	5.22	6.69	5.18	6.28		2	5	1	6	5	CVCVCV	CVCVC	1	2	6	5	R°-lEv	2	CV-CVC	evèler	vEl°R	re-lè-ve	VER,NOM	93.0	16.0	1.9	1.85	relève	1	1.8373699804801074
+119071	sciure	sjyR	sciure	NOM	f	s	0.69	6.08	0.69	6.01		1	2	1	6	4	CCVVCV	CYVC	0	3	4	3	sjyR	1	CYVC	eruics	Ryjs	s-ciu-re	NOM	96.0	29.0	1.95	1.75	sciure	1	1.7934247485471162
+119128	scotch	skOtS	scotch	NOM	m	s	9.45	6.35	9.3	6.28		1	3	1	6	5	CCVCCC	CCVCC	0	1	6	5	skOtS	1	CCVCC	hctocs	StOks	s-cot-ch	NOM	97.0	35.0	2.4	1.75	scotch	1	1.8373699804801074
+128632	ticket	tikE	ticket	NOM	m	s	24.25	15.81	13.62	6.15		1	6	1	6	4	CVCCVC	CVCV	1	12	4	4	ti-kE	2	CV-CV	tekcit	Ekit	ti-cket	NOM	95.0	20.0	2.15	1.25	ticket	1	1.8164520818184267
+129770	touffe	tuf	touffe	NOM	f	s	2.2	16.69	1.6	6.69		1	2	1	6	3	CVVCCV	CVC	4	14	6	3	tuf	1	CVC	effuot	fut	touf-fe	NOM	100.0	18.0	1.65	1.0	touffe	1	1.900613874140137
+132726	turban	tyRb@	turban	NOM	m	s	0.72	7.3	0.66	6.08		1	2	1	6	5	CVCCVC	CVCCV	1	3	5	5	tyR-b@	2	CVC-CV	nabrut	@bRyt	tur-ban	NOM	90.0	21.0	1.9	1.85	turban	1	1.8050046959780757

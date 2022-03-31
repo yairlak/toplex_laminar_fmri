@@ -17,7 +17,7 @@ from ibm_cloud_sdk_core.authenticators import IAMAuthenticator
 from mutagen.mp3 import MP3
 
 
-authenticator = IAMAuthenticator('Y5tueZHZThXVM9io0v7SmRqebq36Dc1_BIohpSOQirki')
+authenticator = IAMAuthenticator('')
 text_to_speech = TextToSpeechV1(
     authenticator=authenticator
 )

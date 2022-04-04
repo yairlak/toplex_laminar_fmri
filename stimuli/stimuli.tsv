@@ -1,181 +1,181 @@
 	ortho	phon	lemme	cgram	genre	nombre	freqlemfilms2	freqlemlivres	freqfilms2	freqlivres	infover	nbhomogr	nbhomoph	islem	nblettres	nbphons	cvcv	p_cvcv	voisorth	voisphon	puorth	puphon	syll	nbsyll	cv-cv	orthrenv	phonrenv	orthosyll	cgramortho	deflem	defobs	old20	pld20	morphoder	nbmorph	log_freqlivres
-142643	évêché	eveSe	évêché	NOM	m	s	0.14	3.85	0.14	3.72		1	2	1	6	5	VCVCCV	VCVCV	0	2	4	4	e-ve-Se	3	V-CV-CV	éhcêvé	eSeve	é-vê-ché	NOM	90.0	20.0	2.6	1.9	évêché	1	1.3137236682850553
-493	abrité	abRite	abriter	VER	m	s	7.92	26.22	0.35	3.11	par:pas;	2	9	0	6	6	VCCVCV	VCCVCV	2	4	6	6	a-bRi-te	3	V-CCV-CV	étirba	etiRba	a-bri-té	VER,ADJ	100.0	21.0	1.8	1.65	abriter	1	1.1346227261911428
-62039	gitane	Zitan	gitan	NOM	f	s	7.5	8.72	2.32	3.11		2	4	0	6	5	CVCVCV	CVCVC	2	1	0	0	Zi-tan	2	CV-CVC	enatig	natiZ	gi-ta-ne	ADJ,NOM	90.0	21.0	1.8	1.9	gitan	1	1.1346227261911428
-48106	emparé	@paRe	emparer	VER	m	s	12.8	39.26	1.53	3.72	par:pas;	1	6	0	6	5	VCCVCV	VCVCV	4	10	0	4	@-pa-Re	3	V-CV-CV	érapme	eRap@	em-pa-ré	VER	85.0	20.0	1.7	1.4	emparer	1	1.3137236682850553
-130570	transe	tR@s	transe	NOM	f	s	2.49	5.14	2.41	3.51		1	4	1	6	4	CCVCCV	CCVC	1	8	6	4	tR@s	1	CCVC	esnart	s@Rt	tran-se	NOM	93.0	16.0	1.8	1.45	transe	1	1.2556160374777743
-109891	rendue	R@dy	rendu	ADJ	f	s	5.36	14.73	0.73	3.51		2	10	0	6	4	CVCCVV	CVCV	7	10	0	4	R@-dy	2	CV-CV	eudner	yd@R	ren-due	VER,ADJ	90.0	22.0	1.5	1.45	rendu	1	1.2556160374777743
-77618	loggia	lOdZja	loggia	NOM	f	s	0.1	3.85	0.1	3.11		1	2	1	6	6	CVCCVV	CVCCYV	0	0	4	3	lOd-Zja	2	CVC-CYV	aiggol	ajZdOl	log-gia	NOM	77.0	18.0	2.55	2.9	loggia	1	1.1346227261911428
-139129	écuyer	ek8ije	écuyer	NOM	m	s	1.56	5.27	1.18	3.04		1	2	1	6	6	VCVVVC	VCYVYV	2	4	4	5	e-k8i-je	3	V-CYV-YV	reyucé	eji8ke	é-cuyer	NOM	84.0	19.0	1.85	1.8	écuyer	1	1.1118575154181303
-64692	guérie	geRi	guérir	VER	f	s	44.73	30.27	3.84	3.65	par:pas;	2	10	0	6	4	CVVCVV	CVCV	3	7	0	4	ge-Ri	2	CV-CV	eiréug	iReg	gué-rie	ADJ,VER	100.0	18.0	1.7	1.45	guérir	1	1.2947271675944
-87625	nommée	nome	nommer	VER	f	s	45.6	62.3	3.01	3.51	par:pas;	2	10	0	6	4	CVCCVV	CVCV	4	11	0	4	no-me	2	CV-CV	eémmon	emon	nom-mée	VER,ADJ	100.0	28.0	1.65	1.35	nommer	1	1.2556160374777743
-104230	quinte	k5t	quinte	NOM	f	s	1.42	4.86	1.25	3.85		1	2	1	6	3	CVVCCV	CVC	6	15	6	3	k5t	1	CVC	etniuq	t5k	quin-te	NOM	72.0	18.0	1.45	1.0	quinte	1	1.3480731482996928
-110277	rentré	R@tRe	rentré	ADJ	m	s	4.86	4.93	4.05	3.18		3	12	1	6	5	CVCCCV	CVCCV	3	8	6	5	R@-tRe	2	CV-CCV	értner	eRt@R	ren-tré	VER,ADJ,NOM	85.0	14.0	1.7	1.2	rentré	1	1.1568811967920856
-33213	crique	kRik	crique	NOM	f	s	1.1	5.2	1.06	3.78		1	6	1	6	4	CCVCVV	CCVC	7	14	6	4	kRik	1	CCVC	euqirc	kiRk	cri-que	NOM	96.0	32.0	1.55	1.1	crique	1	1.3297240096314962
-142056	étrave	etRav	étrave	NOM	f	s	0.07	3.31	0.07	3.11		1	2	1	6	5	VCCVCV	VCCVC	0	1	5	4	e-tRav	2	V-CCVC	evarté	vaRte	é-tra-ve	NOM	63.0	22.0	1.9	1.9	étrave	1	1.1346227261911428
-38161	dollar	dolaR	dollar	NOM	m	s	134.1	16.96	13.89	3.85		1	2	1	6	5	CVCCVC	CVCVC	0	4	4	4	do-laR	2	CV-CVC	rallod	Ralod	dol-lar	NOM	96.0	31.0	2.25	1.8	dollar	1	1.3480731482996928
-20046	calmée	kalme	calmer	VER	f	s	168.54	45.07	1.48	3.45	par:pas;	1	6	0	6	5	CVCCVV	CVCCV	3	10	0	5	kal-me	2	CVC-CV	eémlac	emlak	cal-mée	VER	100.0	27.0	1.55	1.25	calmer	1	1.2383742310432684
-38265	dominé	domine	dominer	VER	m	s	15.66	50.61	1.45	3.85	par:pas;	1	6	0	6	6	CVCVCV	CVCVCV	6	8	0	6	do-mi-ne	3	CV-CV-CV	énimod	enimod	do-mi-né	VER	96.0	26.0	1.6	1.5	dominer	1	1.3480731482996928
-57470	fluide	fl8id	fluide	ADJ		s	1.73	4.8	1.58	3.78		2	4	1	6	5	CCVVCV	CCYVC	0	0	6	5	fl8id	1	CCYVC	ediulf	di8lf	flui-de	ADJ,NOM	100.0	24.0	1.95	2.0	fluide	1	1.3297240096314962
-23111	chargé	SaRZe	chargé	ADJ	m	s	9.61	8.65	5.72	3.72		2	10	1	6	5	CCVCCV	CVCCV	3	8	6	5	SaR-Ze	2	CVC-CV	égrahc	eZRaS	char-gé	VER,ADJ	94.0	18.0	1.75	1.45	chargé	1	1.3137236682850553
-10046	astuce	astys	astuce	NOM	f	s	3.36	5.07	2.74	3.58		1	2	1	6	5	VCCVCV	VCCVC	0	0	6	5	as-tys	2	VC-CVC	ecutsa	sytsa	as-tu-ce	NOM	100.0	20.0	2.35	2.0	astuce	1	1.275362800412609
-80736	martyr	maRtiR	martyr	NOM	m	s	5.5	6.76	3.68	3.24		2	8	1	6	6	CVCCVC	CVCCVC	0	3	6	6	maR-tiR	2	CVC-CVC	rytram	RitRam	mar-tyr	ADJ,NOM	100.0	21.0	1.9	1.8	martyr	1	1.1755733298042381
-19448	cachée	kaSe	caché	ADJ	f	s	10.47	15.27	3.28	3.92		2	11	0	6	4	CVCCVV	CVCV	4	29	0	4	ka-Se	2	CV-CV	eéhcac	eSak	ca-chée	VER,ADJ	96.0	32.0	1.6	1.0	caché	1	1.366091653802371
-116507	résumé	Rezyme	résumé	NOM	m	s	3.95	3.72	3.86	3.24		2	8	1	6	6	CVCVCV	CVCVCV	2	4	6	5	Re-zy-me	3	CV-CV-CV	émusér	emyzeR	ré-su-mé	VER,NOM	100.0	28.0	1.75	1.7	résumé	1	1.1755733298042381
-6138	animée	anime	animé	ADJ	f	s	6.21	8.92	0.35	3.11		2	9	0	6	5	VCVCVV	VCVCV	2	7	0	5	a-ni-me	3	V-CV-CV	eémina	emina	a-ni-mée	VER,ADJ	100.0	23.0	1.65	1.55	animé	1	1.1346227261911428
-135810	vipère	vipER	vipère	NOM	f	s	4.84	5.41	3.42	3.31		1	2	1	6	5	CVCVCV	CVCVC	0	5	4	4	vi-pER	2	CV-CVC	erèpiv	REpiv	vi-pè-re	NOM	100.0	22.0	1.95	1.7	vipère	1	1.1969481893889715
-123516	stoppé	stope	stopper	VER	m	s	9.46	15.61	1.6	3.38	par:pas;	1	6	0	6	5	CCVCCV	CCVCV	2	6	0	5	sto-pe	2	CCV-CV	éppots	epots	s-top-pé	VER	100.0	21.0	1.9	1.65	stopper	1	1.2178757094949273
-23610	chenal	S°nal	chenal	NOM	m	s	0.24	4.73	0.2	3.65		1	1	1	6	5	CCVCVC	CVCVC	2	2	6	5	S°-nal	2	CV-CVC	lanehc	lan°S	che-nal	NOM	65.0	20.0	2.2	1.9	chenal	1	1.2947271675944
-12098	aïeule	aj9l	aïeul	NOM	f	s	3.13	10.61	0.14	3.24		1	4	0	6	4	VVVVCV	VYVC	1	1	0	4	a-j9l	2	V-YVC	elueïa	l9ja	aïeu-le	NOM	100.0	24.0	2.0	1.95	aïeul	1	1.1755733298042381
-11622	avenue	av°ny	avenue	ADJ	f	s	5.58	3.51	5.58	3.51		2	6	1	6	5	VCVCVV	VCVCV	1	2	6	5	a-v°-ny	3	V-CV-CV	euneva	yn°va	a-ve-nue	ADJ,NOM	95.0	23.0	1.75		avenue	1	1.2556160374777743
-38919	dressé	dRese	dressé	ADJ	m	s	1.79	11.82	0.83	3.92		2	9	1	6	5	CCVCCV	CCVCV	5	6	6	5	dRe-se	2	CCV-CV	ésserd	eseRd	dres-sé	VER,ADJ	100.0	21.0	1.6	1.6	dressé	1	1.366091653802371
-32951	craqué	kRake	craquer	VER	m	s	21.23	37.16	4.39	3.04	par:pas;	1	6	0	6	5	CCVCVV	CCVCV	6	11	0	5	kRa-ke	2	CCV-CV	éuqarc	ekaRk	cra-qué	VER	100.0	15.0	1.6	1.25	craquer	1	1.1118575154181303
-56310	fichue	fiSy	fichu	ADJ	f	s	27.51	12.03	6.34	3.04		1	6	0	6	4	CVCCVV	CVCV	2	5	0	4	fi-Sy	2	CV-CV	euhcif	ySif	fi-chue	ADJ	95.0	23.0	1.75	1.7	fichu	1	1.1118575154181303
-136161	vivace	vivas	vivace	ADJ		s	0.52	4.66	0.35	3.58		1	2	1	6	5	CVCVCV	CVCVC	0	1	6	5	vi-vas	2	CV-CVC	ecaviv	saviv	vi-va-ce	ADJ	96.0	28.0	1.95	1.9	vivace	1	1.275362800412609
-33528	crotte	kROt	crotte	NOM	f	s	6.52	6.76	3.46	3.51		1	2	1	6	4	CCVCCV	CCVC	6	12	6	4	kROt	1	CCVC	ettorc	tORk	crot-te	NOM	96.0	31.0	1.45	1.25	crotte	1	1.2556160374777743
+128035	tenons	t°n§	tenir	VER			504.69	741.22	5.94	3.92	imp:pre:1p;ind:pre:1p;	2	3	0	6	4	CVCVCC	CVCV	2	9	0	4	t°-n§	2	CV-CV	snonet	§n°t	te-nons	VER,NOM	100.0	20.0	1.7	1.5	tenir	1	1.366091653802371
 106040	rasade	Razad	rasade	NOM	f	s	0.47	4.86	0.46	3.11		1	2	1	6	5	CVCVCV	CVCVC	1	1	5	5	Ra-zad	2	CV-CVC	edasar	dazaR	ra-sa-de	NOM	85.0	20.0	1.9	1.9	rasade	1	1.1346227261911428
-103699	pétrin	petR5	pétrin	NOM	m	s	10.89	3.31	10.82	3.18		1	2	1	6	5	CVCCVC	CVCCV	4	5	6	5	pe-tR5	2	CV-CCV	nirtép	5Rtep	pé-trin	NOM	86.0	22.0	1.7	1.6	pétrin	1	1.1568811967920856
-80455	mariée	maRje	marié	ADJ	f	s	31.15	10.74	9.47	3.51		3	14	0	6	5	CVCVVV	CVCYV	6	16	0	5	ma-Rje	2	CV-CYV	eéiram	ejRam	ma-riée	VER,ADJ,NOM	100.0	33.0	1.45	1.05	marié	1	1.2556160374777743
-18916	bécane	bekan	bécane	NOM	f	s	1.77	4.8	1.46	3.92		1	2	1	6	5	CVCVCV	CVCVC	1	4	5	5	be-kan	2	CV-CVC	enacéb	nakeb	bé-ca-ne	NOM	90.0	21.0	1.9	1.85	bécane	1	1.366091653802371
-108522	regain	R°g5	regain	NOM	m	s	0.14	3.24	0.14	3.18		1	2	1	6	4	CVCVVC	CVCV	0	6	5	4	R°-g5	2	CV-CV	niager	5g°R	re-gain	NOM	83.0	24.0	1.95	1.7	regain	1	1.1568811967920856
-81739	merlan	mERl@	merlan	NOM	m	s	1.81	3.78	1.76	3.45		1	2	1	6	5	CVCCVC	CVCCV	2	5	5	5	mER-l@	2	CVC-CV	nalrem	@lREm	mer-lan	NOM	81.0	22.0	1.9	1.6	merlan	1	1.2383742310432684
-60289	fuyant	f8ij@	fuyant	ADJ	m	s	1.09	8.31	0.68	3.92		3	5	1	6	5	CVVVCC	CYVYV	3	4	5	5	f8i-j@	2	CYV-YV	tnayuf	@ji8f	fuyant	VER,ADJ,NOM	100.0	28.0	1.75	1.7	fuyant	1	1.366091653802371
-13615	basque	bask	basque	ADJ		s	8.73	3.58	7.51	3.24		2	4	1	6	4	CVCCVV	CVCC	7	11	6	4	bask	1	CVCC	euqsab	ksab	bas-que	ADJ,NOM	94.0	18.0	1.55	1.35	basque	1	1.1755733298042381
-56332	fidèle	fidEl	fidèle	NOM		s	7.16	15.47	2.82	3.78		2	4	1	6	5	CVCVCV	CVCVC	0	2	6	5	fi-dEl	2	CV-CVC	elèdif	lEdif	fi-dè-le	ADJ,NOM	100.0	25.0	2.2	1.85	fidèle	1	1.3297240096314962
-160	abbaye	abei	abbaye	NOM	f	s	3.94	3.78	3.66	3.31		1	2	1	6	4	VCCVVV	VCVV	0	2	5	4	a-be-i	3	V-CV-V	eyabba	ieba	ab-baye	NOM	100.0	23.0	2.65	1.75	abbaye	1	1.1969481893889715
-139930	élysée	elize	élysée	NOM	m	s	0.16	3.72	0.16	3.72		1	2	1	6	5	VCVCVV	VCVCV	0	7	6	5	e-li-ze	3	V-CV-CV	eésylé	ezile		NOM			2.3	1.5	élysée	1	1.3137236682850553
-90419	orient	oRj@	orient	NOM	m	s	0.78	3.78	0.78	3.72		1	2	1	6	4	VCVVCC	VCYV	4	2	6	4	o-Rj@	2	V-CYV	tneiro	@jRo	o-rient	NOM	95.0	21.0	1.55	1.75	orient	1	1.3137236682850553
-75918	lancée	l@se	lancée	NOM	f	s	0.52	3.99	0.5	3.78		2	10	1	6	4	CVCCVV	CVCV	3	15	6	4	l@-se	2	CV-CV	eécnal	es@l	lan-cée	VER,NOM	92.0	25.0	1.6	1.0	lancée	1	1.3297240096314962
-135801	violée	vjole	violer	VER	f	s	39.43	19.19	10.97	3.99	ind:imp:3p;par:pas;	1	6	0	6	5	CVVCVV	CYVCV	1	6	0	5	vjo-le	2	CYV-CV	eéloiv	elojv	vio-lée	VER	100.0	32.0	1.75	1.6	violer	1	1.3837912309017721
-59727	fruste	fRyst	fruste	ADJ		s	0.51	4.86	0.37	3.11		1	2	1	6	5	CCVCCV	CCVCC	1	1	6	5	fRyst	1	CCVCC	etsurf	tsyRf	frus-te	ADJ	78.0	23.0	1.85	1.9	fruste	1	1.1346227261911428
-137683	zénith	zenit	zénith	NOM	m	s	0.63	3.38	0.63	3.38		1	1	1	6	5	CVCVCC	CVCVC	0	1	6	4	ze-nit	2	CV-CVC	htinéz	tinez	zé-ni-th	NOM	100.0	19.0	2.85	1.95	zénith	1	1.2178757094949273
-112665	rieuse	Rj2z	rieux	ADJ	f	s	0.07	4.12	0.06	3.24		2	3	0	6	4	CVVVCV	CYVC	2	3	0	0	Rj2z	1	CYVC	esueir	z2jR	rieu-se	NOM,ADJ			1.7	1.75	rieux	1	1.1755733298042381
-68061	ignoré	iNoRe	ignorer	VER	m	s	156.55	108.45	3.36	3.58	par:pas;	2	10	0	6	5	VCCVCV	VCVCV	2	4	6	5	i-No-Re	3	V-CV-CV	érongi	eRoNi	i-gno-ré	VER,ADJ	100.0	21.0	1.9	1.7	ignorer	1	1.275362800412609
-4342	alerté	alERte	alerter	VER	m	s	6.4	12.91	0.9	3.65	par:pas;	2	10	0	6	6	VCVCCV	VCVCCV	2	4	6	6	a-lER-te	3	V-CVC-CV	étrela	etREla	a-ler-té	VER,ADJ	100.0	19.0	1.8	1.7	alerter	1	1.2947271675944
-94245	percée	pERse	percée	NOM	f	s	1.37	3.99	1.2	3.58		2	9	1	6	5	CVCCVV	CVCCV	5	15	6	5	pER-se	2	CVC-CV	eécrep	esREp	per-cée	VER,NOM	100.0	22.0	1.55	1.1	percée	1	1.275362800412609
-85595	mécano	mekano	mécano	NOM	m	s	2.5	4.05	1.68	3.45		1	4	1	6	6	CVCVCV	CVCVCV	0	0	6	6	me-ka-no	3	CV-CV-CV	onacém	onakem	mé-ca-no	NOM	100.0	22.0	2.55	2.3	mécano	1	1.2383742310432684
-102491	puante	p8@t	puant	ADJ	f	s	7.02	11.49	1.91	3.11		1	2	0	6	4	CVVCCV	CYVC	4	3	0	0	p8@t	1	CYVC	etnaup	t@8p	puan-te	ADJ	91.0	24.0	1.65	1.75	puant	1	1.1346227261911428
-5006	amande	am@d	amande	NOM	f	s	2.19	8.18	1.07	3.99		1	7	1	6	4	VCVCCV	VCVC	2	2	6	4	a-m@d	2	V-CVC	ednama	d@ma	a-man-de	NOM	100.0	22.0	1.8	1.6	amande	1	1.3837912309017721
-21445	carrée	kaRe	carrée	NOM	f	s	0.02	4.53	0.02	3.78		3	14	1	6	4	CVCCVV	CVCV	10	35	6	4	ka-Re	2	CV-CV	eérrac	eRak	car-rée	VER,ADJ,NOM	73.0	15.0	1.35	1.0	carrée	1	1.3297240096314962
-135878	virile	viRil	viril	ADJ	f	s	4.82	10.68	1.31	3.72		1	4	0	6	5	CVCVCV	CVCVC	3	4	0	5	vi-Ril	2	CV-CVC	eliriv	liRiv	vi-ri-le	ADJ	100.0	24.0	1.75	1.8	viril	1	1.3137236682850553
-82978	missel	misEl	missel	NOM	m	s	0.59	3.38	0.53	3.04		1	3	1	6	5	CVCCVC	CVCVC	2	4	5	5	mi-sEl	2	CV-CVC	lessim	lEsim	mis-sel	NOM	72.0	25.0	1.85	1.75	missel	1	1.1118575154181303
-126780	tachée	taSe	tacher	VER	f	s	6.54	16.49	1.05	3.92	par:pas;	1	11	0	6	4	CVCCVV	CVCV	4	21	0	4	ta-Se	2	CV-CV	eéhcat	eSat	ta-chée	VER	86.0	22.0	1.6	1.0	tacher	1	1.366091653802371
-17667	bridge	bRidZ	bridge	NOM	m	s	4.33	4.12	4.31	3.99		1	3	1	6	5	CCVCCV	CCVCC	1	4	6	5	bRidZ	1	CCVCC	egdirb	ZdiRb	brid-ge	NOM	93.0	15.0	1.75	1.55	bridge	1	1.3837912309017721
-110766	reposé	R°poze	reposer	VER	m	s	95.2	83.92	0.76	3.38	par:pas;	2	10	0	6	6	CVCVCV	CVCVCV	2	4	6	6	R°-po-ze	3	CV-CV-CV	ésoper	ezop°R	re-po-sé	VER,ADJ	95.0	24.0	1.75	1.65	reposer	1	1.2178757094949273
-93902	penaud	p°no	penaud	ADJ	m	s	0.21	4.86	0.2	3.04		1	2	1	6	4	CVCVVC	CVCV	1	6	5	4	p°-no	2	CV-CV	duanep	on°p	pe-naud	ADJ	100.0	13.0	1.85	1.65	penaud	1	1.1118575154181303
-94244	percée	pERse	percer	VER	f	s	15.77	42.03	0.71	3.38	par:pas;	2	9	0	6	5	CVCCVV	CVCCV	5	15	6	5	pER-se	2	CVC-CV	eécrep	esREp	per-cée	VER,NOM	100.0	22.0	1.55	1.1	percer	1	1.2178757094949273
-93773	peinte	p5t	peint	ADJ	f	s	2.41	20.74	0.33	3.24		2	7	0	6	3	CVVCCV	CVC	6	16	0	3	p5t	1	CVC	etniep	t5p	pein-te	VER,ADJ	100.0	23.0	1.4	1.0	peint	1	1.1755733298042381
-17607	brevet	bR2vE	brevet	NOM	m	s	3.1	3.58	1.83	3.11		1	2	1	6	5	CCVCVC	CCVCV	0	1	6	5	bR2-vE	2	CCV-CV	teverb	Ev2Rb	bre-vet	NOM	100.0	23.0	1.9		brevet	1	1.1346227261911428
-3460	agitée	aZite	agité	ADJ	f	s	5.37	9.86	1.76	3.38		3	14	0	6	5	VCVCVV	VCVCV	2	10	0	5	a-Zi-te	3	V-CV-CV	eétiga	etiZa	a-gi-tée	VER,ADJ,NOM	100.0	26.0	1.75	1.35	agité	1	1.2178757094949273
-58844	fraise	fREz	fraise	NOM	f	s	12.0	10.07	5.28	3.92		2	3	1	6	4	CCVVCV	CCVC	1	10	6	4	fREz	1	CCVC	esiarf	zERf	frai-se	NOM,VER	100.0	21.0	1.7	1.35	fraise	1	1.366091653802371
-79759	mangée	m@Ze	manger	VER	f	s	467.82	280.61	1.98	3.04	par:pas;	1	7	0	6	4	CVCCVV	CVCV	6	12	0	4	m@-Ze	2	CV-CV	eégnam	eZ@m	man-gée	VER	100.0	20.0	1.55	1.25	manger	1	1.1118575154181303
-16905	bourru	buRy	bourru	ADJ	m	s	0.34	5.2	0.28	3.51		1	4	1	6	4	CVVCCV	CVCV	3	17	6	4	bu-Ry	2	CV-CV	urruob	yRub	bour-ru	ADJ	96.0	50.0	1.75	1.05	bourru	1	1.2556160374777743
-86018	mémère	memER	mémère	NOM	f	s	1.03	5.34	1.0	3.78		1	2	1	6	5	CVCVCV	CVCVC	1	3	4	4	me-mER	2	CV-CVC	erèmém	REmem	mé-mè-re	NOM	93.0	16.0	1.9	1.85	mémère	1	1.3297240096314962
-44274	déplié	deplije	déplier	VER	m	s	0.89	19.46	0.06	3.31	par:pas;	1	5	0	6	7	CVCCVV	CVCCVYV	2	5	0	7	de-pli-je	3	CV-CCV-YV	éilpéd	ejilped	dé-plié	VER	100.0	20.0	1.75	1.75	déplier	1	1.1969481893889715
-16034	borgne	bORN	borgne	ADJ		s	1.8	3.99	1.67	3.45		2	4	1	6	4	CVCCCV	CVCC	2	4	6	4	bORN	1	CVCC	engrob	NROb	bor-gne	ADJ,NOM	93.0	31.0	1.75	1.7	borgne	1	1.2383742310432684
-33670	cruche	kRyS	cruche	NOM	f	s	3.04	4.46	2.92	3.92		2	4	1	6	4	CCVCCV	CCVC	4	6	6	4	kRyS	1	CCVC	ehcurc	SyRk	cru-che	ADJ,NOM	90.0	20.0	1.7	1.55	cruche	1	1.366091653802371
-17588	breton	bR°t§	breton	ADJ	m	s	0.71	9.86	0.17	3.99		2	4	1	6	5	CCVCVC	CCVCV	1	1	6	5	bR°-t§	2	CCV-CV	noterb	§t°Rb	bre-ton	ADJ,NOM	100.0	14.0	1.9	1.95	breton	1	1.3837912309017721
-75929	landau	l@do	landau	NOM	m	s	1.01	4.59	0.98	3.65		1	2	1	6	4	CVCCVV	CVCV	0	5	6	4	l@-do	2	CV-CV	uadnal	od@l	lan-dau	NOM	86.0	22.0	1.95	1.7	landau	1	1.2947271675944
-15822	bonbon	b§b§	bonbon	NOM	m	s	23.45	15.0	6.89	3.72		1	2	1	6	4	CVCCVC	CVCV	0	6	6	4	b§-b§	2	CV-CV	nobnob	§b§b	bon-bon	NOM	95.0	22.0	1.95	1.65	bonbon	1	1.3137236682850553
+77467	livrée	livRe	livrée	NOM	f	s	0.54	4.26	0.38	3.72		2	8	1	6	5	CVCCVV	CVCCV	2	7	5	5	li-vRe	2	CV-CCV	eérvil	eRvil	li-vrée	VER,NOM	86.0	15.0	1.75	1.4	livrée	1	1.3137236682850553
 102960	puéril	p8eRil	puéril	ADJ	m	s	3.73	9.59	2.08	3.18		1	4	1	6	6	CVVCVC	CYVCVC	0	0	6	6	p8e-Ril	2	CYV-CVC	liréup	liRe8p	pué-ril	ADJ	100.0	24.0	1.9	2.25	puéril	1	1.1568811967920856
-79232	majeur	maZ9R	majeur	ADJ	m	s	10.45	11.55	4.29	3.85		2	8	1	6	5	CVCVVC	CVCVC	1	9	5	4	ma-Z9R	2	CV-CVC	ruejam	R9Zam	ma-jeur	ADJ,NOM	96.0	27.0	1.85	1.5	majeur	1	1.3480731482996928
-10935	aumône	omon	aumône	NOM	f	s	3.57	3.78	3.09	3.18		1	2	1	6	4	VVCVCV	VCVC	0	1	6	4	o-mon	2	V-CVC	enômua	nomo	au-mô-ne	NOM	90.0	22.0	2.5	1.9	aumône	1	1.1568811967920856
-51992	errant	ER@	errant	ADJ	m	s	2.62	11.96	1.45	3.18		2	3	1	6	3	VCCVCC	VCV	2	18	6	3	E-R@	2	V-CV	tnarre	@RE	er-rant	ADJ,VER	92.0	25.0	1.65	1.0	errant	1	1.1568811967920856
-31984	coucou	kuku	coucou	NOM	m	s	13.16	5.07	12.71	3.92		1	2	1	6	4	CVVCVV	CVCV	0	2	5	4	ku-ku	2	CV-CV	uocuoc	ukuk	cou-cou	NOM	96.0	27.0	1.95	1.85	coucou	1	1.366091653802371
-12172	bachot	baSo	bachot	NOM	m	s	0.29	3.85	0.29	3.18		1	2	1	6	4	CVCCVC	CVCV	1	10	6	4	ba-So	2	CV-CV	tohcab	oSab	ba-chot	NOM	43.0	23.0	1.9	1.45	bachot	1	1.1568811967920856
-18815	bâtard	bataR	bâtard	ADJ	m	s	2.69	5.74	1.91	3.85		2	4	1	6	5	CVCVCC	CVCVC	0	13	6	5	ba-taR	2	CV-CVC	dratâb	Ratab	bâ-tard	ADJ,NOM	95.0	20.0	1.9	1.2	bâtard	1	1.3480731482996928
-14401	bibine	bibin	bibine	NOM	f	s	0.73	3.99	0.71	3.85		1	2	1	6	5	CVCVCV	CVCVC	3	6	5	5	bi-bin	2	CV-CVC	enibib	nibib	bi-bi-ne	NOM	91.0	24.0	1.8	1.65	bibine	1	1.3480731482996928
-18702	buvard	byvaR	buvard	NOM	m	s	0.12	4.32	0.1	3.58		2	4	1	6	5	CVCVCC	CVCVC	2	3	6	5	by-vaR	2	CV-CVC	dravub	Ravyb	bu-vard	ADJ,NOM	100.0	16.0	1.75	1.8	buvard	1	1.275362800412609
-25649	clergé	klERZe	clergé	NOM	m	s	2.08	3.99	2.07	3.78		1	2	1	6	6	CCVCCV	CCVCCV	0	1	6	6	klER-Ze	2	CCVC-CV	égrelc	eZRElk	cler-gé	NOM	91.0	24.0	2.35	1.95	clergé	1	1.3297240096314962
+116723	réussi	Reysi	réussi	ADJ	m	s	6.11	7.7	3.0	3.11		2	10	1	6	5	CVVCCV	CVVCV	1	1	6	5	Re-y-si	3	CV-V-CV	issuér	isyeR	réus-si	ADJ,VER	100.0	10.0	1.75	1.7	réussi	1	1.1346227261911428
+64124	gronde	gR§d	gronder	VER			8.74	22.7	4.75	3.51	imp:pre:2s;ind:pre:1s;ind:pre:3s;	1	3	0	6	4	CCVCCV	CCVC	5	4	0	0	gR§d	1	CCVC	ednorg	d§Rg	gron-de	VER	100.0	17.0	1.4	1.45	gronder	1	1.2556160374777743
+59885	fugace	fygas	fugace	ADJ		s	0.85	4.39	0.68	3.18		1	2	1	6	5	CVCVCV	CVCVC	0	2	6	5	fy-gas	2	CV-CVC	ecaguf	sagyf	fu-ga-ce	ADJ	89.0	19.0	2.45	1.9	fugace	1	1.1568811967920856
+128927	tisane	tizan	tisane	NOM	f	s	2.86	4.8	2.15	3.78		1	2	1	6	5	CVCVCV	CVCVC	2	2	6	5	ti-zan	2	CV-CVC	enasit	nazit	ti-sa-ne	NOM	100.0	22.0	1.85	1.8	tisane	1	1.3297240096314962
 131961	trogne	tRON	trogne	NOM	f	s	0.07	3.85	0.07	3.18		1	2	1	6	4	CCVCCV	CCVC	2	6	6	4	tRON	1	CCVC	engort	NORt	tro-gne	NOM	73.0	15.0	1.8	1.65	trogne	1	1.1568811967920856
-136434	volcan	vOlk@	volcan	NOM	m	s	5.5	5.34	4.52	3.85		1	2	1	6	5	CVCCVC	CVCCV	0	0	6	5	vOl-k@	2	CVC-CV	naclov	@klOv	vol-can	NOM	100.0	27.0	2.4	1.95	volcan	1	1.3480731482996928
-66930	humain	ym5	humain	ADJ	m	s	107.1	111.55	50.53	35.81		2	4	1	6	3	CVCVVC	VCV	2	5	6	3	y-m5	2	V-CV	niamuh	5my	hu-main	ADJ,NOM	100.0	15.0	1.75	1.6	humain	1	3.5782271840103412
-99608	preuve	pR9v	preuve	NOM	f	s	107.54	65.34	60.79	50.54		1	2	1	6	4	CCVVCV	CCVC	2	2	5	3	pR9v	1	CCVC	evuerp	v9Rp	preu-ve	NOM	100.0	20.0	1.8	1.8	preuve	1	3.922765101960048
-93514	pauvre	povR	pauvre	NOM		s	68.54	53.24	45.73	29.39		2	4	1	6	4	CVVCCV	CVCC	0	0	6	4	povR	1	CVCC	ervuap	Rvop	pau-vre	ADJ,NOM	100.0	16.0	1.9	1.95	pauvre	1	3.380654480430826
-86921	navire	naviR	navire	NOM	m	s	21.98	50.2	15.83	28.04		1	2	1	6	5	CVCVCV	CVCVC	0	5	6	5	na-viR	2	CV-CVC	erivan	Rivan	na-vi-re	NOM	91.0	24.0	1.9	1.7	navire	1	3.3336320621663895
-65809	hasard	azaR	hasard	NOM	m	s	48.07	124.19	46.98	118.99		1	2	1	6	4	CVCVCC	VCVC	2	10	6	4	a-zaR	2	V-CVC	drasah	Raza	ha-sard	NOM	100.0	24.0	1.7	1.2	hasard	1	4.779039455967062
-48280	emploi	@plwa	emploi	NOM	m	s	30.94	29.19	25.96	26.42		1	5	1	6	5	VCCCVV	VCCYV	0	1	6	5	@p-lwa	2	VC-CYV	iolpme	awlp@	em-ploi	NOM	100.0	19.0	1.85	1.8	emploi	1	3.2741212990941793
-108290	reflet	R°flE	reflet	NOM	m	s	6.41	50.74	5.63	27.36		1	2	1	6	5	CVCCVC	CVCCV	2	5	6	5	R°-flE	2	CV-CCV	telfer	Elf°R	re-flet	NOM	100.0	17.0	1.85	1.35	reflet	1	3.3090820927543496
-120844	siècle	sjEkl	siècle	NOM	m	s	45.77	132.91	27.29	79.05		1	2	1	6	5	CVVCCV	CYVCC	0	0	4	4	sjEkl	1	CYVCC	elcèis	lkEjs	siè-cle	NOM	100.0	28.0	2.15	1.95	siècle	1	4.370080563655481
-5288	amitié	amitje	amitié	NOM	f	s	36.69	77.77	32.39	67.7		1	2	1	6	6	VCVCVV	VCVCYV	0	3	6	4	a-mi-tje	3	V-CV-CYV	éitima	ejtima	a-mi-tié	NOM	100.0	29.0	2.2	1.85	amitié	1	4.215086179918229
-55623	faveur	fav9R	faveur	NOM	f	s	36.65	31.62	31.09	27.64		1	2	1	6	5	CVCVVC	CVCVC	5	5	5	4	fa-v9R	2	CV-CVC	ruevaf	R9vaf	fa-veur	NOM	93.0	16.0	1.65	1.7	faveur	1	3.319263998899469
-76566	lettre	lEtR	lettre	NOM	f	s	156.77	256.01	108.79	140.88		1	2	1	6	4	CVCCCV	CVCC	2	11	6	4	lEtR	1	CVCC	erttel	RtEl	let-tre	NOM	100.0	28.0	1.75	1.2	lettre	1	4.94790846418795
-24217	choisi	Swazi	choisir	VER	m	s	170.48	133.92	58.19	44.53	par:pas;	2	10	0	6	5	CCVVCV	CYVCV	0	1	6	5	Swa-zi	2	CYV-CV	isiohc	izawS	choi-si	ADJ,VER	95.0	22.0	1.75	1.8	choisir	1	3.796163119333611
-128001	tendre	t@dR	tendre	ADJ		s	21.66	61.15	18.34	45.54		3	5	1	6	4	CVCCCV	CVCC	10	14	6	4	t@dR	1	CVCC	erdnet	Rd@t	ten-dre	ADJ,NOM,VER	100.0	19.0	1.3	1.0	tendre	1	3.8185910606355935
-83337	modèle	modEl	modèle	NOM	m	s	25.06	35.95	19.56	27.5		3	8	1	6	5	CVCVCV	CVCVC	2	4	4	5	mo-dEl	2	CV-CVC	elèdom	lEdom	mo-dè-le	VER,ADJ,NOM	100.0	21.0	1.85	1.8	modèle	1	3.3141860046725258
-80271	marché	maRSe	marcher	VER	m	s	364.37	325.61	44.87	23.45	par:pas;	2	7	0	6	5	CVCCCV	CVCCV	2	8	6	5	maR-Se	2	CVC-CV	éhcram	eSRam	mar-ché	VER,NOM	100.0	13.0	1.85	1.35	marcher	1	3.1548704948922883
-6094	animal	animal	animal	NOM	m	s	80.5	82.64	36.89	47.23		2	4	1	6	6	VCVCVC	VCVCVC	2	0	6	6	a-ni-mal	3	V-CV-CVC	lamina	lamina	a-ni-mal	ADJ,NOM	94.0	17.0	1.8	1.95	animal	1	3.8550292839080256
-24997	cinéma	sinema	cinéma	NOM	m	s	63.49	78.51	62.23	72.91		1	2	1	6	6	CVCVCV	CVCVCV	0	0	6	6	si-ne-ma	3	CV-CV-CV	aménic	amenis	ci-né-ma	NOM	100.0	16.0	2.6	2.7	cinéma	1	4.289225803818339
-75958	langue	l@g	langue	NOM	f	s	69.11	126.28	58.95	103.78		1	2	1	6	3	CVCCVV	CVC	8	17	6	3	l@g	1	CVC	eugnal	g@l	lan-gue	NOM	100.0	23.0	1.5	1.0	langue	1	4.642273273939594
-126865	taille	taj	taille	NOM	f	s	43.17	76.49	41.32	72.84		2	9	1	6	3	CVVCCV	CVY	12	24	6	3	taj	1	CVY	elliat	jat	tail-le	NOM,VER	100.0	27.0	1.05	1.0	tailler	1	4.288265254859407
-102912	putain	pyt5	putain	NOM	f	s	306.74	40.41	287.83	33.58		1	2	1	6	4	CVCVVC	CVCV	0	9	5	4	py-t5	2	CV-CV	niatup	5typ	pu-tain	NOM	100.0	18.0	1.95	1.5	putain	1	3.5139306516493947
-92632	parole	paROl	parole	NOM	f	s	103.48	178.31	71.07	81.82		1	2	1	6	5	CVCVCV	CVCVC	2	3	6	5	pa-ROl	2	CV-CVC	elorap	lORap	pa-ro-le	NOM	92.0	14.0	1.8	1.8	parole	1	4.404521712501253
-11431	avance	av@s	avance	NOM	f	s	69.25	82.3	65.68	77.64		2	5	1	6	4	VCVCCV	VCVC	2	1	6	4	a-v@s	2	V-CVC	ecnava	s@va	a-van-ce	NOM,VER	100.0	26.0	1.7	1.65	avancer	1	4.35208275830081
-61412	gauche	goS	gauche	ADJ		s	45.88	89.59	45.51	88.04		2	4	1	6	3	CVVCCV	CVC	3	8	6	3	goS	1	CVC	ehcuag	Sog	gau-che	ADJ,NOM	100.0	16.0	1.7	1.4	gauche	1	4.477791256658261
-80272	marché	maRSe	marché	NOM	m	s	74.36	62.43	72.73	57.36		2	7	1	6	5	CVCCCV	CVCCV	2	8	6	5	maR-Se	2	CVC-CV	éhcram	eSRam	mar-ché	VER,NOM	100.0	23.0	1.85	1.35	marché	1	4.0493471962913645
-52357	espèce	EspEs	espèce	NOM	f	s	116.51	141.69	105.04	127.23		1	2	1	6	5	VCCVCV	VCCVC	2	3	4	4	Es-pEs	2	VC-CVC	ecèpse	sEpsE	es-pè-ce	NOM	96.0	27.0	2.3	1.85	espèce	1	4.845996472154609
-45924	détail	detaj	détail	NOM	m	s	55.78	91.15	19.82	37.97		1	3	1	6	5	CVCVVC	CVCVY	1	6	6	5	de-taj	2	CV-CVY	liatéd	jated	dé-tail	NOM	100.0	26.0	1.9	1.45	détail	1	3.636796374243711
-60109	fureur	fyR9R	fureur	NOM	f	s	7.87	33.92	7.03	30.61		1	4	1	6	5	CVCVVC	CVCVC	2	4	5	4	fy-R9R	2	CV-CVC	rueruf	R9Ryf	fu-reur	NOM	100.0	22.0	1.85	1.7	fureur	1	3.421326752957321
-118677	savoir	savwaR	savoir	NOM	m	s	37.32	41.42	37.27	40.95		2	3	1	6	6	CVCVVC	CVCYVC	4	4	6	6	sa-vwaR	2	CV-CYVC	riovas	Rawvas	sa-voir	NOM,VER	100.0	28.0	1.7	1.7	savoir	1	3.7123518102990785
-100193	profil	pRofil	profil	NOM	m	s	14.44	29.12	13.38	26.69		1	4	1	6	6	CCVCVC	CCVCVC	1	1	6	6	pRo-fil	2	CCV-CVC	liforp	lifoRp	pro-fil	NOM	100.0	30.0	1.75	1.7	profil	1	3.284288963416433
-8343	argent	aRZ@	argent	NOM	m	s	515.1	194.39	515.04	194.32		2	3	1	6	4	VCCVCC	VCCV	4	7	6	4	aR-Z@	2	VC-CV	tnegra	@ZRa	ar-gent	ADJ,NOM	100.0	21.0	1.6	1.35	argent	1	5.269506284693917
-133288	témoin	temw5	témoin	NOM	m	s	74.78	46.01	49.35	28.38		1	2	1	6	5	CVCVVC	CVCYV	0	0	6	5	te-mw5	2	CV-CYV	niomét	5wmet	té-moin	NOM	100.0	29.0	2.45	2.55	témoin	1	3.3456846717318967
-112607	rideau	Rido	rideau	NOM	m	s	19.11	84.53	10.81	43.65		1	2	1	6	4	CVCVVV	CVCV	1	10	5	4	Ri-do	2	CV-CV	uaedir	odiR	ri-deau	NOM	92.0	26.0	1.9	1.45	rideau	1	3.776203282285611
-121407	sombre	s§bR	sombre	ADJ		s	31.86	125.74	24.66	93.72		2	5	1	6	4	CVCCCV	CVCC	4	3	6	4	s§bR	1	CVCC	erbmos	Rb§s	som-bre	ADJ,VER	100.0	25.0	1.5	1.55	sombre	1	4.540311613639595
-38564	double	dubl	double	ADJ		s	30.46	58.99	28.68	52.84		3	7	1	6	4	CVVCCV	CVCC	3	1	6	4	dubl	1	CVCC	elbuod	lbud	dou-ble	ADJ,NOM,VER	100.0	21.0	1.6	1.65	double	1	3.9672684796541247
-84734	mousse	mus	mousse	NOM		s	6.47	27.16	6.24	23.04		3	6	1	6	3	CVVCCV	CVC	7	19	6	3	mus	1	CVC	essuom	sum	mous-se	ADJ,NOM,VER	100.0	25.0	1.35	1.0	mousse	1	3.1372318358276905
-26885	colère	kolER	colère	NOM	f	s	68.9	100.07	67.91	92.77		1	3	1	6	5	CVCVCV	CVCVC	2	21	4	5	ko-lER	2	CV-CVC	erèloc	RElok	co-lè-re	NOM	100.0	18.0	1.85	1.0	colère	1	4.5301233116651805
-112900	risque	Risk	risque	NOM	m	s	69.33	50.27	45.98	30.27		2	5	1	6	4	CVCCVV	CVCC	4	5	6	4	Risk	1	CVCC	euqsir	ksiR	ris-que	NOM,VER	100.0	28.0	1.55	1.45	risquer	1	3.410157123033627
-136172	vivant	viv@	vivant	ADJ	m	s	124.97	92.23	76.38	41.15		3	5	1	6	4	CVCVCC	CVCV	6	11	6	4	vi-v@	2	CV-CV	tnaviv	@viv	vi-vant	ADJ,NOM,VER	100.0	25.0	1.5	1.25	vivant	1	3.717223927123079
-121192	soirée	swaRe	soirée	NOM	f	s	102.37	76.69	94.36	58.24		1	2	1	6	5	CVVCVV	CYVCV	3	8	5	5	swa-Re	2	CYV-CV	eérios	eRaws	soi-rée	NOM	100.0	27.0	1.8	1.55	soirée	1	4.06457240388843
-91687	panier	panje	panier	NOM	m	s	15.72	33.18	13.82	24.39		1	2	1	6	5	CVCVVC	CVCYV	7	6	6	5	pa-nje	2	CV-CYV	reinap	ejnap	pa-nier	NOM	96.0	33.0	1.55	1.45	panier	1	3.194173212227829
-8755	arrivé	aRive	arriver	VER	m	s	1252.42	723.04	203.06	97.91	par:pas;par:pas;par:pas;	3	14	0	6	5	VCCVCV	VCVCV	3	8	6	5	a-Ri-ve	3	V-CV-CV	évirra	eviRa	ar-ri-vé	VER,ADJ,NOM	100.0	21.0	1.75	1.35	arriver	1	4.5840486893659795
-13988	beauté	bote	beauté	NOM	f	s	72.56	92.64	68.57	87.64		1	14	1	6	4	CVVVCV	CVCV	0	22	5	4	bo-te	2	CV-CV	étuaeb	etob	beau-té	NOM	100.0	23.0	2.05	1.0	beauté	1	4.473237514727265
-88240	numéro	nymeRo	numéro	NOM	m	s	173.48	70.07	162.08	60.0		1	2	1	6	6	CVCVCV	CVCVCV	0	0	6	6	ny-me-Ro	3	CV-CV-CV	orémun	oRemyn	nu-mé-ro	NOM	100.0	27.0	2.6	2.25	numéro	1	4.0943445622221
-142134	étroit	etRwa	étroit	ADJ	m	s	10.79	75.81	5.94	28.18		1	2	1	6	5	VCCVVC	VCCYV	0	1	6	5	e-tRwa	2	V-CCYV	tiorté	awRte	é-troit	ADJ	96.0	28.0	1.85	1.8	étroit	1	3.3386125064705343
-31974	couché	kuSe	coucher	VER	m	s	181.96	196.22	35.71	40.74	par:pas;	3	13	0	6	4	CVVCCV	CVCV	8	18	6	4	ku-Se	2	CV-CV	éhcuoc	eSuk	cou-ché	VER,ADJ,NOM	100.0	20.0	1.45	1.0	coucher	1	3.70721041079866
-14350	beurre	b9R	beurre	NOM	m	s	15.14	27.97	15.12	27.5		3	9	1	6	3	CVVCCV	CVC	5	14	6	3	b9R	1	CVC	errueb	R9b	beur-re	ADJ,NOM,VER	100.0	27.0	1.6	1.0	beurre	1	3.3141860046725258
-35131	danger	d@Ze	danger	NOM	m	s	80.61	55.27	76.73	45.2		1	2	1	6	4	CVCCVC	CVCV	4	8	6	4	d@-Ze	2	CV-CV	regnad	eZ@d	dan-ger	NOM	100.0	19.0	1.75	1.6	danger	1	3.8110970868381857
-63200	grande	gR@d	grand	ADJ	f	s	638.72	1244.66	198.25	378.65		2	4	0	6	4	CCVCCV	CCVC	6	5	0	0	gR@d	1	CCVC	ednarg	d@Rg	gran-de	ADJ,NOM	96.0	25.0	1.45	1.55	grand	1	5.936612295559832
-52268	espace	Espas	espace	NOM		s	43.87	88.51	41.34	78.58		2	4	1	6	5	VCCVCV	VCCVC	2	2	6	5	Es-pas	2	VC-CVC	ecapse	sapsE	es-pa-ce	NOM,VER	92.0	26.0	1.7	1.7	espace	1	4.364117214130314
-99224	pourvu	puRvy	pourvoir	VER	m	s	21.48	33.78	18.5	24.59	par:pas;	1	5	0	6	5	CVVCCV	CVCCV	0	0	0	0	puR-vy	2	CVC-CV	uvruop	yvRup	pour-vu	VER	86.0	22.0	2.1	2.0	pourvoir	1	3.202339856228101
-99861	prière	pRijER	prière	NOM	f	s	32.73	45.95	19.15	30.0		1	3	1	6	6	CCVVCV	CCVYVC	0	8	4	5	pRi-jER	2	CCV-YVC	erèirp	REjiRp	priè-re	NOM	96.0	26.0	1.95	1.5	prière	1	3.4011973816621555
-45281	désert	dezER	désert	NOM	m	s	27.66	41.89	26.13	36.76		2	4	1	6	5	CVCVCC	CVCVC	1	5	6	5	de-zER	2	CV-CVC	treséd	REzed	dé-sert	ADJ,NOM	97.0	35.0	1.75	1.65	désert	1	3.6044102974874863
-61690	gentil	Z@ti	gentil	ADJ	m	s	192.64	64.86	134.11	37.36		2	4	1	6	4	CVCCVC	CVCV	0	6	6	4	Z@-ti	2	CV-CV	litneg	it@Z	gen-til	ADJ,NOM	100.0	19.0	1.95	1.55	gentil	1	3.620600613360642
-139365	église	egliz	église	NOM	f	s	64.75	145.07	60.2	123.58		1	2	1	6	5	VCCVCV	VCCVC	0	0	4	4	e-gliz	2	V-CCVC	esilgé	zilge	é-gli-se	NOM	100.0	23.0	1.85	1.85	église	1	4.816888719632834
-141284	équipe	ekip	équipe	NOM	f	s	129.97	34.32	118.0	26.28		2	5	1	6	4	VCVVCV	VCVC	3	3	6	4	e-kip	2	V-CVC	epiuqé	pike	é-qui-pe	NOM,VER	100.0	22.0	1.65	1.55	équipe	1	3.26880819361641
-88028	nouvel	nuvEl	nouvel	ADJ	m	s	30.59	22.23	30.59	22.23		1	5	1	6	5	CVVCVC	CVCVC	0	2	6	5	nu-vEl	2	CV-CVC	levuon	lEvun	nou-vel	ADJ	100.0	17.0	2.0	1.9	nouvel	1	3.101442727976105
-41665	défaut	defo	défaut	NOM	m	s	18.36	38.45	11.24	27.7		1	2	1	6	4	CVCVVC	CVCV	1	8	6	4	de-fo	2	CV-CV	tuaféd	ofed	dé-faut	NOM	92.0	13.0	1.95	1.55	défaut	1	3.3214324131932926
-57408	flotte	flOt	flotte	NOM	f	s	16.36	27.64	16.22	26.22		2	5	1	6	4	CCVCCV	CCVC	5	10	6	4	flOt	1	CCVC	ettolf	tOlf	flot-te	NOM,VER	88.0	25.0	1.5	1.35	flotter	1	3.2665224783355535
-87567	nombre	n§bR	nombre	NOM	m	s	40.16	78.38	36.57	76.28		1	2	1	6	4	CVCCCV	CVCC	2	1	6	4	n§bR	1	CVCC	erbmon	Rb§n	nom-bre	NOM	100.0	17.0	1.8	1.85	nombre	1	4.3344107807322185
-126940	talent	tal@	talent	NOM	m	s	44.17	38.11	33.28	31.08		2	2	1	6	4	CVCVCC	CVCV	5	20	6	4	ta-l@	2	CV-CV	tnelat	@lat	ta-lent	VER,NOM	91.0	24.0	1.65	1.0	talent	1	3.436564525499447
-42394	dégoût	degu	dégoût	NOM	m	s	6.02	30.14	5.99	27.97		1	2	1	6	4	CVCVVC	CVCV	0	6	6	4	de-gu	2	CV-CV	tûogéd	uged	dé-goût	NOM	100.0	18.0	1.8	1.6	dégoût	1	3.3311325072138684
-80181	marbre	maRbR	marbre	NOM	m	s	7.31	43.04	6.28	41.49		2	4	1	6	5	CVCCCV	CVCCC	3	1	6	5	maRbR	1	CVCCC	erbram	RbRam	mar-bre	NOM,VER	100.0	21.0	1.65	1.75	marbre	1	3.725452434344777
-82820	minute	minyt	minute	NOM	f	s	342.28	201.42	144.83	60.74		2	6	1	6	5	CVCVCV	CVCVC	1	2	6	5	mi-nyt	2	CV-CVC	etunim	tynim	mi-nu-te	NOM,VER	100.0	30.0	1.75	1.75	minute	1	4.106602459617603
-84391	moteur	mot9R	moteur	NOM	m	s	33.63	51.08	26.31	41.28		2	4	1	6	5	CVCVVC	CVCVC	2	10	6	4	mo-t9R	2	CV-CVC	ruetom	R9tom	mo-teur	ADJ,NOM	100.0	27.0	1.75	1.4	moteur	1	3.720378121173307
-9185	aspect	aspE	aspect	NOM	m	s	12.78	41.28	9.88	36.01		1	2	1	6	4	VCCVCC	VCCV	0	2	5	4	as-pE	2	VC-CV	tcepsa	Epsa	as-pect	NOM	90.0	30.0	2.5	1.8	aspect	1	3.583796677660784
-99704	prince	pR5s	prince	NOM	m	s	98.9	101.22	44.83	65.61		1	2	1	6	4	CCVCCV	CCVC	1	4	6	4	pR5s	1	CCVC	ecnirp	s5Rp	prin-ce	NOM	88.0	26.0	1.8	1.7	prince	1	4.1837281233567865
-88776	obscur	OpskyR	obscur	ADJ	m	s	11.06	67.57	5.0	29.12		1	4	1	6	6	VCCCVC	VCCCVC	0	0	6	6	Op-skyR	2	VC-CCVC	rucsbo	RykspO	obs-cur	ADJ	95.0	23.0	2.65	2.75	obscur	1	3.3714252233284854
-23275	chasse	Sas	chasse	NOM	f	s	47.99	59.46	46.8	53.38		2	7	1	6	3	CCVCCV	CVC	8	20	6	3	Sas	1	CVC	essahc	saS	chas-se	NOM,VER	88.0	18.0	1.15	1.0	chasser	1	3.9774361439763783
-7942	appuyé	ap8ije	appuyer	VER	m	s	40.95	126.01	4.0	22.97	par:pas;	2	11	0	6	6	VCCVVV	VCYVYV	1	5	6	5	a-p8i-je	3	V-CYV-YV	éyuppa	eji8pa	ap-puyé	VER,ADJ	100.0	28.0	2.0	1.75	appuyer	1	3.134189016701007
-55680	façade	fasad	façade	NOM	f	s	4.6	46.76	4.19	29.66		1	2	1	6	5	CVCVCV	CVCVC	0	2	4	5	fa-sad	2	CV-CVC	edaçaf	dasaf	fa-ça-de	NOM	100.0	17.0	2.05	1.9	façade	1	3.389799336709786
-9521	assise	asiz	asseoir	VER	f	s	322.71	395.27	15.99	51.69	par:pas;	3	6	0	6	4	VCCVCV	VCVC	0	12	6	4	a-siz	2	V-CVC	esissa	zisa	as-si-se	VER,ADJ,NOM	90.0	20.0	1.8	1.25	asseoir	1	3.945264339207948
-896	accent	aks@	accent	NOM	m	s	14.56	45.54	12.98	38.31		1	2	1	6	4	VCCVCC	VCCV	0	5	6	4	ak-s@	2	VC-CV	tnecca	@ska	ac-cent	NOM	100.0	25.0	1.95	1.65	accent	1	3.6457109587125576
-87413	niveau	nivo	niveau	NOM	m	s	50.7	32.91	45.46	30.74		1	2	1	6	4	CVCVVV	CVCV	0	5	5	4	ni-vo	2	CV-CV	uaevin	ovin	ni-veau	NOM	100.0	25.0	2.2	1.7	niveau	1	3.4255647381104497
-97789	police	polis	police	NOM	f	s	276.21	83.72	274.31	81.69		2	4	1	6	5	CVCVCV	CVCVC	1	6	6	5	po-lis	2	CV-CVC	ecilop	silop	po-li-ce	NOM,VER	95.0	23.0	1.75	1.4	police	1	4.4029315953537775
-25546	classe	klas	classe	NOM	f	s	78.99	108.92	70.46	90.74		2	6	1	6	4	CCVCCV	CCVC	7	13	6	4	klas	1	CCVC	essalc	salk	clas-se	NOM,VER	100.0	19.0	1.25	1.0	classe	1	4.507998274235818
-132308	trouvé	tRuve	trouver	VER	m	s	1335.49	972.5	339.29	135.74	par:pas;par:pas;par:pas;	2	10	0	6	5	CCVVCV	CCVCV	3	7	6	5	tRu-ve	2	CCV-CV	évuort	evuRt	trou-vé	VER,ADJ	100.0	19.0	1.7	1.45	trouver	1	4.910741291275612
-78011	lourde	luRd	lourd	ADJ	f	s	29.45	145.88	8.46	56.62		2	4	0	6	4	CVVCCV	CVCC	6	10	0	0	luRd	1	CVCC	edruol	dRul	lour-de	ADJ,NOM	100.0	15.0	1.5	1.3	lourd	1	4.036362279683754
-86817	nature	natyR	nature	NOM	f	s	60.2	95.88	59.8	93.45		2	3	1	6	5	CVCVCV	CVCVC	3	4	6	5	na-tyR	2	CV-CVC	erutan	Rytan	na-tu-re	ADJ,NOM	100.0	16.0	1.75	1.8	nature	1	4.537426533901572
-27983	compte	k§t	compte	NOM	m	s	160.95	208.38	138.88	187.23		2	12	1	6	3	CVCCCV	CVC	5	13	6	3	k§t	1	CVC	etpmoc	t§k	comp-te	NOM,VER	92.0	26.0	1.3	1.0	compter	1	5.232337807614061
-82514	milieu	milj2	milieu	NOM	m	s	70.27	256.08	68.6	246.69		2	3	1	6	5	CVCVVV	CVCYV	0	3	5	5	mi-lj2	2	CV-CYV	ueilim	2jlim	mi-lieu	ADV,NOM	100.0	23.0	1.95	1.85	milieu	1	5.508132487650914
-92846	partie	paRti	partie	NOM	f	s	191.19	211.49	177.81	187.97		2	13	1	6	5	CVCCVV	CVCCV	4	10	6	5	paR-ti	2	CVC-CV	eitrap	itRap	par-tie	NOM,VER	100.0	20.0	1.5	1.1	partie	1	5.236282375628504
+140684	éperon	ep°R§	éperon	NOM	m	s	1.07	8.18	0.2	3.04		1	2	1	6	5	VCVCVC	VCVCV	0	0	6	5	e-p°-R§	3	V-CV-CV	norepé	§R°pe	é-pe-ron	NOM	85.0	14.0	2.35		éperon	1	1.1118575154181303
+26403	coiffe	kwaf	coiffer	VER			8.38	42.43	1.81	3.18	imp:pre:2s;ind:pre:1s;ind:pre:3s;	2	5	0	6	4	CVVCCV	CYVC	3	6	6	4	kwaf	1	CYVC	effioc	fawk	coif-fe	NOM,VER	88.0	26.0	1.65	1.4	coiffer	1	1.1568811967920856
+12918	bambou	b@bu	bambou	NOM	m	s	1.73	6.15	1.32	3.78		1	2	1	6	4	CVCCVV	CVCV	0	3	6	4	b@-bu	2	CV-CV	uobmab	ub@b	bam-bou	NOM	100.0	30.0	1.95	1.8	bambou	1	1.3297240096314962
+34683	câbles	kabl	câble	NOM	m	p	17.04	6.08	3.67	3.11		1	3	0	6	4	CVCCVC	CVCC	4	12	0	4	kabl	1	CVCC	selbâc	lbak	câ-bles	NOM	100.0	19.0	1.7	1.0	câble	1	1.1346227261911428
+12503	baisse	bEs	baisse	NOM	f	s	12.37	3.58	11.55	3.38		2	5	1	6	3	CVVCCV	CVC	6	21	6	3	bEs	1	CVC	essiab	sEb	bais-se	NOM,VER	100.0	17.0	1.3	1.0	baisser	1	1.2178757094949273
+122807	spasme	spasm	spasme	NOM	m	s	2.13	6.76	0.47	3.38		1	2	1	6	5	CCVCCV	CCVCC	0	0	6	5	spasm	1	CCVCC	emsaps	msaps	s-pas-me	NOM	95.0	21.0	2.3	2.0	spasme	1	1.2178757094949273
+21445	carrée	kaRe	carrée	NOM	f	s	0.02	4.53	0.02	3.78		3	14	1	6	4	CVCCVV	CVCV	10	35	6	4	ka-Re	2	CV-CV	eérrac	eRak	car-rée	VER,ADJ,NOM	73.0	15.0	1.35	1.0	carrée	1	1.3297240096314962
+18738	bâches	baS	bâche	NOM	f	p	2.4	13.38	0.1	3.31		1	3	0	6	3	CVCCVC	CVC	12	31	0	3	baS	1	CVC	sehcâb	Sab	bâ-ches	NOM	95.0	24.0	1.3	1.0	bâche	1	1.1969481893889715
+112665	rieuse	Rj2z	rieux	ADJ	f	s	0.07	4.12	0.06	3.24		2	3	0	6	4	CVVVCV	CYVC	2	3	0	0	Rj2z	1	CYVC	esueir	z2jR	rieu-se	NOM,ADJ			1.7	1.75	rieux	1	1.1755733298042381
+20592	canons	kan§	canon	ADJ	m	p	11.03	5.2	3.25	3.31		3	5	0	6	4	CVCVCC	CVCV	5	12	0	4	ka-n§	2	CV-CV	snonac	§nak	ca-nons	VER,ADJ,NOM	100.0	23.0	1.6	1.15	canon	1	1.1969481893889715
+819	acacia	akasja	acacia	NOM	m	s	0.26	6.35	0.05	3.24		1	2	1	6	6	VCVCVV	VCVCYV	0	0	4	5	a-ka-sja	3	V-CV-CYV	aicaca	ajsaka	a-ca-cia	NOM	64.0	17.0	2.6	2.0	acacia	1	1.1755733298042381
+55886	fermai	fERmE	fermer	VER			238.65	197.16	0.06	3.24	ind:pas:1s;	1	4	0	6	5	CVCCVV	CVCCV	2	8	0	0	fER-mE	2	CVC-CV	iamref	EmREf	fer-mai	VER	100.0	23.0	1.65	1.35	fermer	1	1.1755733298042381
+129807	toupie	tupi	toupie	NOM	f	s	1.79	3.92	1.5	3.04		1	2	1	6	4	CVVCVV	CVCV	1	6	6	4	tu-pi	2	CV-CV	eipuot	iput	tou-pie	NOM	100.0	16.0	1.9	1.7	toupie	1	1.1118575154181303
+123477	stocks	stOk	stock	NOM	m	p	5.66	7.91	1.44	3.11		1	4	0	6	4	CCVCCC	CCVC	4	5	0	4	stOk	1	CCVC	skcots	kOts	sto-cks	NOM	100.0	25.0	1.7	1.55	stock	1	1.1346227261911428
+75628	laides	lEd	laid	ADJ	f	p	18.54	26.82	1.51	3.11		2	4	0	6	3	CVVCVC	CVC	6	22	0	0	lEd	1	CVC	sedial	dEl	lai-des	ADJ,NOM	95.0	24.0	1.45	1.0	laid	1	1.1346227261911428
+4578	alliée	alje	allié	ADJ	f	s	2.66	25.68	0.16	3.11		3	18	0	6	4	VCCVVV	VCYV	1	12	0	4	a-lje	2	V-CYV	eéilla	ejla	al-liée	VER,ADJ,NOM	89.0	19.0	1.7	1.05	allié	1	1.1346227261911428
+51882	envole	@vOl	envoler	VER			28.82	29.86	5.39	3.78	imp:pre:2s;ind:pre:1s;ind:pre:3s;sub:pre:1s;sub:pre:3s;	1	5	0	6	4	VCCVCV	VCVC	4	1	0	3	@-vOl	2	V-CVC	elovne	lOv@	en-vo-le	VER	96.0	25.0	1.55	1.9	envoler	1	1.3297240096314962
+127308	tapote	tapOt	tapoter	VER			1.16	16.55	0.36	3.11	imp:pre:2s;ind:pre:1s;ind:pre:3s;	1	2	0	6	5	CVCVCV	CVCVC	4	4	0	0	ta-pOt	2	CV-CVC	etopat	tOpat	ta-po-te	VER	100.0	23.0	1.7	1.8	tapoter	1	1.1346227261911428
+95847	pincer	p5se	pincer	VER			10.84	23.65	4.06	3.72	inf;	2	11	1	6	4	CVCCVC	CVCV	5	13	6	4	p5-se	2	CV-CV	recnip	es5p	pin-cer	VER	100.0	18.0	1.5	1.15	pincer	1	1.3137236682850553
+99854	privés	pRive	priver	VER	m	p	24.06	42.7	1.44	3.65	par:pas;	3	12	0	6	5	CCVCVC	CCVCV	4	10	0	5	pRi-ve	2	CCV-CV	sévirp	eviRp	pri-vés	VER,ADJ,NOM	100.0	21.0	1.6	1.35	priver	1	1.2947271675944
+142643	évêché	eveSe	évêché	NOM	m	s	0.14	3.85	0.14	3.72		1	2	1	6	5	VCVCCV	VCVCV	0	2	4	4	e-ve-Se	3	V-CV-CV	éhcêvé	eSeve	é-vê-ché	NOM	90.0	20.0	2.6	1.9	évêché	1	1.3137236682850553
+68916	imposa	5poza	imposer	VER			23.62	78.38	0.79	3.72	ind:pas:3s;	1	2	0	6	5	VCCVCV	VCVCV	2	6	0	0	5-po-za	3	V-CV-CV	asopmi	azop5	im-po-sa	VER	100.0	19.0	1.85	1.5	imposer	1	1.3137236682850553
+23610	chenal	S°nal	chenal	NOM	m	s	0.24	4.73	0.2	3.65		1	1	1	6	5	CCVCVC	CVCVC	2	2	6	5	S°-nal	2	CV-CVC	lanehc	lan°S	che-nal	NOM	65.0	20.0	2.2	1.9	chenal	1	1.2947271675944
+34729	cécité	sesite	cécité	NOM	f	s	1.12	3.65	1.12	3.65		1	1	1	6	6	CVCVCV	CVCVCV	1	2	5	4	se-si-te	3	CV-CV-CV	éticéc	etises	cé-ci-té	NOM	96.0	26.0	1.95	1.9	céc-ité	2	1.2947271675944
+56493	filant	fil@	filer	VER			100.97	88.51	0.26	3.38	par:pre;	2	2	0	6	4	CVCVCC	CVCV	5	18	6	4	fi-l@	2	CV-CV	tnalif	@lif	fi-lant	ADJ,VER	85.0	14.0	1.6	1.0	filer	1	1.2178757094949273
+103701	pétrir	petRiR	pétrir	VER			1.48	11.01	0.68	3.31	inf;	1	2	1	6	6	CVCCVC	CVCCVC	4	1	6	6	pe-tRiR	2	CV-CCVC	rirtép	RiRtep	pé-trir	VER	100.0	19.0	1.7	1.8	pétrir	1	1.1969481893889715
+23868	chichi	SiSi	chichi	NOM	m	s	1.46	5.0	0.55	3.04		1	2	1	6	4	CCVCCV	CVCV	1	5	6	4	Si-Si	2	CV-CV	ihcihc	iSiS	chi-chi	NOM	84.0	25.0	2.2	1.75	chichi	1	1.1118575154181303
+33806	crèmes	kREm	crème	NOM		p	20.61	24.46	0.9	3.51		1	4	0	6	4	CCVCVC	CCVC	4	12	0	4	kREm	1	CCVC	semèrc	mERk	crè-mes	NOM	100.0	25.0	1.75	1.25	crème	1	1.2556160374777743
+39565	débile	debil	débile	ADJ		s	21.09	4.66	17.8	3.11		2	4	1	6	5	CVCVCV	CVCVC	5	7	6	5	de-bil	2	CV-CVC	elibéd	libed	dé-bi-le	ADJ,NOM	100.0	23.0	1.7	1.6	débile	1	1.1346227261911428
+25649	clergé	klERZe	clergé	NOM	m	s	2.08	3.99	2.07	3.78		1	2	1	6	6	CCVCCV	CCVCCV	0	1	6	6	klER-Ze	2	CCVC-CV	égrelc	eZRElk	cler-gé	NOM	91.0	24.0	2.35	1.95	clergé	1	1.3297240096314962
+141472	établi	etabli	établi	NOM	m	s	0.39	4.12	0.37	3.58		3	12	1	6	6	VCVCCV	VCVCCV	1	0	6	6	e-ta-bli	3	V-CV-CCV	ilbaté	ilbate	é-ta-bli	ADJ,NOM,VER	88.0	27.0	1.7	1.8	établi	1	1.275362800412609
+128777	tinter	t5te	tinter	VER			0.95	11.76	0.31	3.92	inf;	1	8	1	6	4	CVCCVC	CVCV	3	11	6	4	t5-te	2	CV-CV	retnit	et5t	tin-ter	VER	90.0	22.0	1.7	1.4	tinter	1	1.366091653802371
+33213	crique	kRik	crique	NOM	f	s	1.1	5.2	1.06	3.78		1	6	1	6	4	CCVCVV	CCVC	7	14	6	4	kRik	1	CCVC	euqirc	kiRk	cri-que	NOM	96.0	32.0	1.55	1.1	crique	1	1.3297240096314962
+46927	effacé	efase	effacé	ADJ	m	s	1.82	9.19	0.94	3.45		2	10	1	6	5	VCCVCV	VCVCV	2	5	6	5	e-fa-se	3	V-CV-CV	écaffe	esafe	ef-fa-cé	VER,ADJ	100.0	24.0	1.8	1.6	effacé	1	1.2383742310432684
+25645	clercs	klER	clerc	NOM	m	p	0.82	9.26	0.09	3.58		1	10	0	6	4	CCVCCC	CCVC	0	10	0	4	klER	1	CCVC	screlc	RElk	clercs	NOM	84.0	19.0	2.4	1.05	clerc	1	1.275362800412609
+84322	mortes	mORt	mourir	VER	f	p	916.4	391.08	5.32	3.04	par:pas;	3	6	0	6	4	CVCCVC	CVCC	13	14	0	0	mORt	1	CVCC	setrom	tROm	mor-tes	ADJ,NOM,VER	100.0	19.0	1.15	1.2	mourir	1	1.1118575154181303
+49736	enfuie	@f8i	enfuir	VER	f	s	65.13	37.57	8.71	3.38	par:pas;sub:pre:3s;	1	6	0	6	4	VCCVVV	VCYV	4	4	0	0	@-f8i	2	V-CYV	eiufne	i8f@	en-fuie	VER	86.0	29.0	1.65	1.65	enfuir	1	1.2178757094949273
+102633	puiser	p8ize	puiser	VER			2.97	14.46	1.08	3.51	inf;	1	6	1	6	5	CVVCVC	CYVCV	4	8	6	5	p8i-ze	2	CYV-CV	resiup	ezi8p	pui-ser	VER	94.0	17.0	1.65	1.4	puiser	1	1.2556160374777743
+132376	truffe	tRyf	truffe	NOM	f	s	2.65	4.73	0.82	3.38		2	3	1	6	4	CCVCCV	CCVC	2	2	6	4	tRyf	1	CCVC	effurt	fyRt	truf-fe	NOM,VER	94.0	17.0	1.75	1.65	truffe	1	1.2178757094949273
+99619	priant	pRij@	prier	VER			313.12	105.74	1.61	3.31	par:pre;	3	3	0	6	5	CCVVCC	CCVYV	5	14	5	5	pRi-j@	2	CCV-YV	tnairp	@jiRp	priant	ADJ,NOM,VER	100.0	24.0	1.5	1.25	prier	1	1.1969481893889715
+87931	nouait	nwE	nouer	VER			3.61	32.5	0.03	3.85	ind:imp:3s;	1	4	0	6	3	CVVVVC	CYV	9	14	0	0	nwE	1	CYV	tiauon	Ewn	nouait	VER	100.0	17.0	1.5	1.15	nouer	1	1.3480731482996928
+118425	saumon	som§	saumon	NOM	m	s	5.92	4.73	5.28	3.65		2	4	1	6	4	CVVCVC	CVCV	1	11	6	4	so-m§	2	CV-CV	nomuas	§mos	sau-mon	ADJ,NOM	100.0	16.0	1.85	1.4	saumon	1	1.2947271675944
+116497	résume	Rezym	résumer	VER			7.48	14.53	3.5	3.31	imp:pre:2s;ind:pre:1s;ind:pre:3s;	1	2	0	6	5	CVCVCV	CVCVC	2	1	0	0	Re-zym	2	CV-CVC	emusér	myzeR	ré-su-me	VER	100.0	31.0	1.7	1.65	résumer	1	1.1969481893889715
+22394	cernes	sERn	cerne	NOM	m	p	1.3	5.2	1.18	3.78		1	4	0	6	4	CVCCVC	CVCC	7	15	0	4	sERn	1	CVCC	senrec	nREs	cer-nes	NOM	85.0	21.0	1.55	1.0	cerne	1	1.3297240096314962
+135934	visait	vizE	viser	VER			38.03	27.57	1.65	3.18	ind:imp:3s;	1	4	0	6	4	CVCVVC	CVCV	10	14	0	0	vi-zE	2	CV-CV	tiasiv	Eziv	vi-sait	VER	95.0	23.0	1.35	1.15	viser	1	1.1568811967920856
+44274	déplié	deplije	déplier	VER	m	s	0.89	19.46	0.06	3.31	par:pas;	1	5	0	6	7	CVCCVV	CVCCVYV	2	5	0	7	de-pli-je	3	CV-CCV-YV	éilpéd	ejilped	dé-plié	VER	100.0	20.0	1.75	1.75	déplier	1	1.1969481893889715
+136161	vivace	vivas	vivace	ADJ		s	0.52	4.66	0.35	3.58		1	2	1	6	5	CVCVCV	CVCVC	0	1	6	5	vi-vas	2	CV-CVC	ecaviv	saviv	vi-va-ce	ADJ	96.0	28.0	1.95	1.9	vivace	1	1.275362800412609
+104230	quinte	k5t	quinte	NOM	f	s	1.42	4.86	1.25	3.85		1	2	1	6	3	CVVCCV	CVC	6	15	6	3	k5t	1	CVC	etniuq	t5k	quin-te	NOM	72.0	18.0	1.45	1.0	quinte	1	1.3480731482996928
+13416	barons	baR§	baron	NOM	m	p	20.82	28.24	0.56	3.51		1	3	0	6	4	CVCVCC	CVCV	6	26	0	4	ba-R§	2	CV-CV	snorab	§Rab	ba-rons	NOM	100.0	15.0	1.55	1.0	baron	1	1.2556160374777743
+63531	gravés	gRave	graver	VER	m	p	10.34	18.38	1.13	3.11	par:pas;	2	10	0	6	5	CCVCVC	CCVCV	6	12	0	5	gRa-ve	2	CCV-CV	sévarg	evaRg	gra-vés	VER,ADJ	100.0	24.0	1.55	1.1	graver	1	1.1346227261911428
+67926	idiots	idjo	idiot	ADJ	m	p	74.06	33.24	4.13	3.11		2	4	0	6	4	VCVVCC	VCYV	1	3	0	4	i-djo	2	V-CYV	stoidi	ojdi	i-diots	ADJ,NOM	100.0	23.0	2.1	1.8	idiot	1	1.1346227261911428
+51992	errant	ER@	errant	ADJ	m	s	2.62	11.96	1.45	3.18		2	3	1	6	3	VCCVCC	VCV	2	18	6	3	E-R@	2	V-CV	tnarre	@RE	er-rant	ADJ,VER	92.0	25.0	1.65	1.0	errant	1	1.1568811967920856
+142609	évoqua	evoka	évoquer	VER			11.57	73.51	0.02	3.51	ind:pas:3s;	1	2	0	6	5	VCVCVV	VCVCV	3	6	0	0	e-vo-ka	3	V-CV-CV	auqové	akove	é-vo-qua	VER	100.0	17.0	1.8	1.65	évoquer	1	1.2556160374777743
+128536	thèmes	tEm	thème	NOM	m	p	17.32	14.26	1.83	3.72		1	3	0	6	3	CCVCVC	CVC	1	18	0	3	tEm	1	CVC	semèht	mEt	thè-mes	NOM	90.0	22.0	1.9	1.0	thème	1	1.3137236682850553
+29063	congés	k§Ze	congé	NOM	m	p	20.74	21.62	2.58	3.99		1	2	0	6	4	CVCCVC	CVCV	5	6	0	4	k§-Ze	2	CV-CV	ségnoc	eZ§k	con-gés	NOM	95.0	22.0	1.7	1.65	congé	1	1.3837912309017721
+77264	lisent	liz	lire	VER			281.09	324.8	2.67	3.72	ind:pre:3p;	1	6	0	6	3	CVCVCC	CVC	6	24	0	3	liz	1	CVC	tnesil	zil	li-sent	VER	100.0	12.0	1.5	1.0	lire	1	1.3137236682850553
+16329	bouclé	bukle	boucler	VER	m	s	24.61	23.45	2.88	3.31	par:pas;	2	10	0	6	5	CVVCCV	CVCCV	3	5	6	5	bu-kle	2	CV-CCV	élcuob	elkub	bou-clé	VER,ADJ	100.0	25.0	1.7	1.55	boucler	1	1.1969481893889715
+81918	meules	m2l	meule	NOM	f	p	1.39	8.38	0.22	3.65		2	4	0	6	3	CVVCVC	CVC	8	10	0	3	m2l	1	CVC	seluem	l2m	meu-les	NOM,VER	80.0	21.0	1.45	1.35	meule	1	1.2947271675944
+49748	enfuis	@f8i	enfuir	VER	m	p	65.13	37.57	6.83	3.04	imp:pre:2s;ind:pre:1s;ind:pre:2s;par:pas;	1	6	0	6	4	VCCVVC	VCYV	6	4	0	0	@-f8i	2	V-CYV	siufne	i8f@	en-fuis	VER	86.0	29.0	1.55	1.65	enfuir	1	1.1118575154181303
+70135	indien	5dj5	indien	ADJ	m	s	11.62	11.22	5.75	3.18		2	4	1	6	4	VCCVVC	VCYV	0	0	6	3	5-dj5	2	V-CYV	neidni	5jd5	in-dien	ADJ,NOM	100.0	18.0	1.95	2.0	inde-ien	2	1.1568811967920856
+19630	cageot	kaZo	cageot	NOM	m	s	1.21	7.36	0.64	3.11		1	2	1	6	4	CVCVVC	CVCV	1	15	5	4	ka-Zo	2	CV-CV	toegac	oZak	ca-geot	NOM	95.0	21.0	1.85	1.15	cageot	1	1.1346227261911428
+146	abattu	abaty	abattu	ADJ	m	s	2.51	7.09	1.82	3.78		3	10	1	6	5	VCVCCV	VCVCV	1	7	6	5	a-ba-ty	3	V-CV-CV	uttaba	ytaba	a-bat-tu	VER,ADJ,NOM	100.0	19.0	1.75	1.45	a-battu	2	1.3297240096314962
+92874	partis	paRti	parti	ADJ	m	p	15.01	11.62	3.96	3.51		3	13	0	6	5	CVCCVC	CVCCV	9	10	0	5	paR-ti	2	CVC-CV	sitrap	itRap	par-tis	ADJ,NOM,VER	100.0	21.0	1.3	1.1	parti	1	1.2556160374777743
+108700	reines	REn	reine	NOM	f	p	59.05	33.78	2.79	3.78		1	8	0	6	3	CVVCVC	CVC	5	23	0	3	REn	1	CVC	senier	nER	rei-nes	NOM	100.0	21.0	1.6	1.0	reine	1	1.3297240096314962
+112782	rincer	R5se	rincer	VER			4.46	11.15	1.86	3.18	inf;	1	7	1	6	4	CVCCVC	CVCV	4	8	6	4	R5-se	2	CV-CV	recnir	es5R	rin-cer	VER	100.0	19.0	1.6	1.5	rincer	1	1.1568811967920856
+129759	touché	tuSe	touché	ADJ	m	s	8.36	5.34	6.28	3.24		2	12	1	6	4	CVVCCV	CVCV	8	12	6	4	tu-Se	2	CV-CV	éhcuot	eSut	tou-ché	VER,ADJ	100.0	22.0	1.5	1.2	touché	1	1.1755733298042381
+75918	lancée	l@se	lancée	NOM	f	s	0.52	3.99	0.5	3.78		2	10	1	6	4	CVCCVV	CVCV	3	15	6	4	l@-se	2	CV-CV	eécnal	es@l	lan-cée	VER,NOM	92.0	25.0	1.6	1.0	lancée	1	1.3297240096314962
+4516	allant	al@	allant	NOM	m	s	0.41	3.04	0.41	3.04		3	5	1	6	3	VCCVCC	VCV	1	31	5	3	a-l@	2	V-CV	tnalla	@la	al-lant	ADJ,NOM,VER	65.0	26.0	1.75	1.0	allant	1	1.1118575154181303
+65404	haines	En	haine	NOM	f	p	33.1	52.5	1.62	3.11		1	5	0	6	2	CVVCVC	VC	7	16	0	2	En	1	VC	seniah	nE	hai-nes	NOM	100.0	18.0	1.5	1.0	haine	1	1.1346227261911428
+39215	durcit	dyRsi	durcir	VER			1.79	13.99	0.3	3.65	ind:pre:3s;ind:pas:3s;	1	9	0	6	5	CVCCVC	CVCCV	4	1	0	5	dyR-si	2	CVC-CV	ticrud	isRyd	dur-cit	VER	100.0	17.0	1.7	1.8	durcir	1	1.2947271675944
+86527	nageur	naZ9R	nageur	NOM	m	s	2.72	4.59	1.43	3.24		1	2	1	6	5	CVCVVC	CVCVC	1	4	5	4	na-Z9R	2	CV-CVC	ruegan	R9Zan	na-geur	NOM	90.0	20.0	1.85	1.8	nager-eur	2	1.1755733298042381
+126780	tachée	taSe	tacher	VER	f	s	6.54	16.49	1.05	3.92	par:pas;	1	11	0	6	4	CVCCVV	CVCV	4	21	0	4	ta-Se	2	CV-CV	eéhcat	eSat	ta-chée	VER	86.0	22.0	1.6	1.0	tacher	1	1.366091653802371
+11765	aviser	avize	aviser	VER			9.77	27.5	0.65	3.18	inf;	1	9	1	6	5	VCVCVC	VCVCV	3	9	5	5	a-vi-ze	3	V-CV-CV	resiva	eziva	a-vi-ser	VER	100.0	21.0	1.65	1.4	aviser	1	1.1568811967920856
+35227	datait	datE	dater	VER			16.69	17.23	0.34	3.18	ind:imp:3s;	1	2	0	6	4	CVCVVC	CVCV	4	13	0	0	da-tE	2	CV-CV	tiatad	Etad	da-tait	VER	93.0	15.0	1.8	1.15	dater	1	1.1568811967920856
+23800	chiale	Sjal	chialer	VER			7.25	13.78	1.28	3.51	imp:pre:2s;ind:pre:1s;ind:pre:3s;	1	3	0	6	4	CCVVCV	CYVC	2	3	0	0	Sjal	1	CYVC	elaihc	lajS	chia-le	VER	90.0	22.0	1.75	1.55	chialer	1	1.2556160374777743
+68061	ignoré	iNoRe	ignorer	VER	m	s	156.55	108.45	3.36	3.58	par:pas;	2	10	0	6	5	VCCVCV	VCVCV	2	4	6	5	i-No-Re	3	V-CV-CV	érongi	eRoNi	i-gno-ré	VER,ADJ	100.0	21.0	1.9	1.7	ignorer	1	1.275362800412609
+38161	dollar	dolaR	dollar	NOM	m	s	134.1	16.96	13.89	3.85		1	2	1	6	5	CVCCVC	CVCVC	0	4	4	4	do-laR	2	CV-CVC	rallod	Ralod	dol-lar	NOM	96.0	31.0	2.25	1.8	dollar	1	1.3480731482996928
+15246	blesse	blEs	blesser	VER			103.74	43.31	9.22	3.11	imp:pre:2s;ind:pre:1s;ind:pre:3s;sub:pre:3s;	1	3	0	6	4	CCVCCV	CCVC	2	6	0	0	blEs	1	CCVC	esselb	sElb	bles-se	VER	100.0	34.0	1.7	1.35	blesser	1	1.1346227261911428
+132391	truite	tR8it	truite	NOM	f	s	3.65	7.91	2.35	3.38		1	2	1	6	5	CCVVCV	CCYVC	2	0	6	5	tR8it	1	CCYVC	etiurt	ti8Rt	trui-te	NOM	95.0	24.0	1.8	1.95	truite	1	1.2178757094949273
+117367	saches	saS	savoir	VER			4516.71	2003.58	17.03	3.04	sub:pre:2s;	1	3	0	6	3	CVCCVC	CVC	9	21	0	0	saS	1	CVC	sehcas	Sas	sa-ches	VER	100.0	20.0	1.4	1.0	savoir	1	1.1118575154181303
+77898	louche	luS	louche	NOM	f	s	1.86	4.12	1.55	3.38		3	7	1	6	3	CVVCCV	CVC	8	18	6	3	luS	1	CVC	ehcuol	Sul	lou-che	ADJ,NOM,VER	96.0	28.0	1.25	1.0	louche	1	1.2178757094949273
 21320	carnet	kaRnE	carnet	NOM	m	s	13.23	31.82	11.06	24.66		1	2	1	6	5	CVCCVC	CVCCV	2	5	6	5	kaR-nE	2	CVC-CV	tenrac	EnRak	car-net	NOM	94.0	18.0	1.75	1.45	carnet	1	3.2051824977361982
-52508	essayé	esEje	essayer	VER	m	s	670.4	296.69	124.02	45.68	par:pas;par:pas;par:pas;par:pas;	1	4	0	6	5	VCCVVV	VCVYV	3	4	0	0	e-sE-je	3	V-CV-YV	éyasse	ejEse	es-sayé	VER	100.0	24.0	1.75	1.7	essayer	1	3.821660565347755
-90995	ouvert	uvER	ouvert	ADJ	m	s	39.97	132.36	13.19	31.08		2	4	1	6	4	VVCVCC	VCVC	0	5	6	4	u-vER	2	V-CVC	trevuo	REvu	ou-vert	ADJ,VER	86.0	22.0	1.8	1.45	ouvert	1	3.436564525499447
-98537	portée	pORte	portée	NOM	f	s	13.38	33.85	13.05	33.18		3	10	1	6	5	CVCCVV	CVCCV	2	11	6	5	pOR-te	2	CVC-CV	eétrop	etROp	por-tée	VER,ADJ,NOM	91.0	24.0	1.7	1.0	portée	1	3.5019472847622986
-99502	presse	pREs	presse	NOM	f	s	45.77	41.82	45.1	40.68		2	4	1	6	4	CCVCCV	CCVC	6	12	6	4	pREs	1	CCVC	esserp	sERp	pres-se	NOM,VER	100.0	31.0	1.4	1.0	presse	1	3.7057365711803594
-79282	malade	malad	malade	ADJ		s	158.27	73.92	147.5	66.22		2	4	1	6	5	CVCVCV	CVCVC	5	6	6	5	ma-lad	2	CV-CVC	edalam	dalam	ma-la-de	ADJ,NOM	100.0	18.0	1.65	1.65	malade	1	4.1929825321191005
-19726	caisse	kEs	caisse	NOM	f	s	38.03	69.39	29.46	51.01		1	2	1	6	3	CVVCCV	CVC	6	14	6	3	kEs	1	CVC	essiac	sEk	cais-se	NOM	100.0	21.0	1.6	1.1	caisse	1	3.932021691934835
-47165	effort	efOR	effort	NOM	m	s	42.7	136.62	23.26	98.18		1	2	1	6	4	VCCVCC	VCVC	0	3	6	4	e-fOR	2	V-CVC	troffe	ROfe	ef-fort	NOM	95.0	24.0	2.2	1.75	effort	1	4.586802528629907
-33006	crayon	kREj§	crayon	NOM	m	s	10.97	30.47	8.08	25.47		1	2	1	6	5	CCVVVC	CCVYV	2	8	6	5	kRE-j§	2	CCV-YV	noyarc	§jERk	crayon	NOM	100.0	25.0	1.8	1.5	crayon	1	3.2375012889913655
+35316	dehors	d2OR	dehors	NOM	m		17.57	37.64	17.57	37.64		3	3	1	6	4	CVCVCC	CVVC	0	0	3	3	d2-OR	2	CV-VC	srohed	RO2d	de-hors	ADV,NOM,ONO	93.0	16.0	2.45		dehors	1	3.6280673147171787
+36799	dirait	diRE	dire	VER			5946.15	4832.5	190.63	85.88	cnd:pre:3s;	1	4	0	6	4	CVCVVC	CVCV	10	19	0	0	di-RE	2	CV-CV	tiarid	ERid	di-rait	VER	100.0	23.0	1.4	1.0	dire	1	4.45295097301058
+99766	prison	pRiz§	prison	NOM	f	s	147.49	72.43	142.97	64.66		1	3	1	6	5	CCVCVC	CCVCV	3	13	6	5	pRi-z§	2	CCV-CV	nosirp	§ziRp	pri-son	NOM	100.0	27.0	1.75	1.3	prison	1	4.169142772297287
+99285	poussé	puse	pousser	VER	m	s	125.61	288.92	18.46	42.03	par:pas;	2	12	0	6	4	CVVCCV	CVCV	5	19	6	4	pu-se	2	CV-CV	éssuop	esup	pous-sé	VER,ADJ	100.0	24.0	1.65	1.0	pousser	1	3.7383836490170252
+23110	chargé	SaRZe	charger	VER	m	s	93.02	122.16	23.18	40.07	par:pas;	2	10	0	6	5	CCVCCV	CVCCV	3	8	6	5	SaR-Ze	2	CVC-CV	égrahc	eZRaS	char-gé	VER,ADJ	96.0	26.0	1.75	1.45	charger	1	3.6906279246480533
+39011	droits	dRwa	droit	NOM	m	p	207.62	163.72	32.01	25.0		2	5	0	6	4	CCVVCC	CCYV	1	7	0	4	dRwa	1	CCYV	stiord	awRd	droits	ADJ,NOM	96.0	33.0	1.8	1.35	droit	1	3.2188758248682006
+106640	rayons	REj§	rayon	NOM	m	p	27.0	55.74	7.62	28.04		2	3	0	6	4	CVVVCC	CVYV	7	7	0	4	RE-j§	2	CV-YV	snoyar	§jER	rayons	VER,NOM	100.0	39.0	1.3	1.25	rayon	1	3.3336320621663895
+11807	avocat	avoka	avocat	NOM	m	s	112.69	37.64	89.28	24.32		1	2	1	6	5	VCVCVC	VCVCV	0	2	6	5	a-vo-ka	3	V-CV-CV	tacova	akova	a-vo-cat	NOM	95.0	24.0	2.4	1.85	avocat	1	3.1912990570979662
+94057	penses	p@s	penser	VER			1485.47	869.8	186.9	38.24	ind:pre:2s;sub:pre:2s;	1	7	0	6	3	CVCCVC	CVC	8	17	0	3	p@s	1	CVC	sesnep	s@p	pen-ses	VER	100.0	30.0	1.5	1.0	penser	1	3.643882088183201
+61678	genoux	Z°nu	genou	NOM	m	p	54.24	127.91	42.82	103.99		1	2	0	6	4	CVCVVC	CVCV	0	2	0	4	Z°-nu	2	CV-CV	xuoneg	un°Z	ge-noux	NOM	100.0	22.0	2.5	1.9	genou	1	4.644294740672142
+89466	offrir	ofRiR	offrir	VER			177.8	213.99	52.06	50.34	inf;;	1	2	1	6	5	VCCCVC	VCCVC	2	0	5	4	o-fRiR	2	V-CCVC	rirffo	RiRfo	of-frir	VER	93.0	15.0	2.0	1.7	offrir	1	3.91879998970717
+128490	thomas	toma	thomas	NOM	m		4.83	25.81	4.83	25.81		1	2	1	6	4	CCVCVC	CVCV	0	9	5	4	to-ma	2	CV-CV	samoht	amot	tho-mas	NOM	31.0	19.0	2.4	1.45	thomas	1	3.2507620137305224
+142134	étroit	etRwa	étroit	ADJ	m	s	10.79	75.81	5.94	28.18		1	2	1	6	5	VCCVVC	VCCYV	0	1	6	5	e-tRwa	2	V-CCYV	tiorté	awRte	é-troit	ADJ	96.0	28.0	1.85	1.8	étroit	1	3.3386125064705343
+105839	rapide	Rapid	rapide	ADJ		s	48.73	71.82	42.28	53.99		2	4	1	6	5	CVCVCV	CVCVC	3	3	6	5	Ra-pid	2	CV-CVC	edipar	dipaR	ra-pi-de	ADJ,NOM	100.0	26.0	1.75	1.8	rapide	1	3.9887988442301956
+119322	secoua	s°kwa	secouer	VER			19.0	116.35	0.26	25.68	ind:pas:3s;	1	1	0	6	5	CVCVVV	CVCYV	2	4	0	0	s°-kwa	2	CV-CYV	auoces	awk°s	se-coua	VER	95.0	20.0	1.85	1.7	secouer	1	3.2457124788217606
+113663	rouges	RuZ	rouge	ADJ		p	102.93	273.24	23.23	77.97		2	4	0	6	3	CVVCVC	CVC	8	13	0	3	RuZ	1	CVC	seguor	ZuR	rou-ges	ADJ,NOM	96.0	25.0	1.35	1.15	rouge	1	4.356324137321509
+25546	classe	klas	classe	NOM	f	s	78.99	108.92	70.46	90.74		2	6	1	6	4	CCVCCV	CCVC	7	13	6	4	klas	1	CCVC	essalc	salk	clas-se	NOM,VER	100.0	19.0	1.25	1.0	classe	1	4.507998274235818
+6094	animal	animal	animal	NOM	m	s	80.5	82.64	36.89	47.23		2	4	1	6	6	VCVCVC	VCVCVC	2	0	6	6	a-ni-mal	3	V-CV-CVC	lamina	lamina	a-ni-mal	ADJ,NOM	94.0	17.0	1.8	1.95	animal	1	3.8550292839080256
+92553	parler	paRle	parler	VER			1970.55	1086.01	728.02	341.82	inf;;inf;;inf;;inf;;	3	13	1	6	5	CVCCVC	CVCCV	4	8	6	5	paR-le	2	CVC-CV	relrap	elRap	par-ler	ADJ,NOM,VER	100.0	19.0	1.55	1.35	parler	1	5.834284282720359
+5288	amitié	amitje	amitié	NOM	f	s	36.69	77.77	32.39	67.7		1	2	1	6	6	VCVCVV	VCVCYV	0	3	6	4	a-mi-tje	3	V-CV-CYV	éitima	ejtima	a-mi-tié	NOM	100.0	29.0	2.2	1.85	amitié	1	4.215086179918229
+134143	valeur	val9R	valeur	NOM	f	s	45.4	52.3	32.48	40.74		1	2	1	6	5	CVCVVC	CVCVC	4	10	6	5	va-l9R	2	CV-CVC	ruelav	R9lav	va-leur	NOM	100.0	19.0	1.65	1.35	valeur	1	3.70721041079866
+66479	hommes	Om	homme	NOM	m	p	1123.55	1398.85	342.44	546.62		1	3	0	6	2	CVCCVC	VC	5	14	0	2	Om	1	VC	semmoh	mO	hom-mes	NOM	100.0	20.0	1.65	1.0	homme	1	6.303753862652604
+25669	client	klij@	client	NOM	m	s	112.12	81.55	53.63	28.78		1	2	1	6	5	CCVVCC	CCVYV	3	4	6	5	kli-j@	2	CCV-YV	tneilc	@jilk	client	NOM	100.0	18.0	1.7	1.75	client	1	3.359680701459222
+92433	parfum	paRf1	parfum	NOM	m	s	30.0	65.74	24.44	52.36		1	2	1	6	5	CVCCVC	CVCCV	0	3	6	5	paR-f1	2	CVC-CV	mufrap	1fRap	par-fum	NOM	100.0	25.0	1.85	1.85	parfum	1	3.9581429410416993
+137143	vérité	veRite	vérité	NOM	f	s	193.24	140.88	190.21	133.38		1	2	1	6	6	CVCVCV	CVCVCV	2	1	6	6	ve-Ri-te	3	CV-CV-CV	étirév	etiRev	vé-ri-té	NOM	100.0	24.0	1.85	1.9	vér-ité	2	4.89320219720416
+79615	manche	m@S	manche	NOM		s	14.25	59.39	10.12	35.41		1	2	1	6	3	CVCCCV	CVC	7	16	6	3	m@S	1	CVC	ehcnam	S@m	man-che	NOM	100.0	23.0	1.55	1.0	manche	1	3.566994266123812
+12471	baiser	beze	baiser	NOM	m	s	52.17	54.59	40.92	28.65		2	7	1	6	4	CVVCVC	CVCV	4	11	6	4	be-ze	2	CV-CV	resiab	ezeb	bai-ser	NOM,VER	100.0	13.0	1.3	1.25	baiser	1	3.3551534431607486
+78011	lourde	luRd	lourd	ADJ	f	s	29.45	145.88	8.46	56.62		2	4	0	6	4	CVVCCV	CVCC	6	10	0	0	luRd	1	CVCC	edruol	dRul	lour-de	ADJ,NOM	100.0	15.0	1.5	1.3	lourd	1	4.036362279683754
+12497	baissa	bEsa	baisser	VER			63.69	115.27	0.27	25.54	ind:pas:3s;	1	2	0	6	4	CVVCCV	CVCV	3	12	0	0	bE-sa	2	CV-CV	assiab	asEb	bais-sa	VER	94.0	19.0	1.65	1.1	baisser	1	3.2402458506043934
+10961	aurait	oRE	avoir	VER			13572.4	6426.49	64.61	101.82	cnd:pre:3s;	2	9	0	6	3	VVCVVC	VCV	6	23	0	3	o-RE	2	V-CV	tiarua	ERo	au-rait	AUX,VER	93.0	16.0	1.55	1.0	avoir	1	4.62320654847419
+59716	fruits	fR8i	fruit	NOM	m	p	39.45	64.05	23.45	42.09		1	2	0	6	4	CCVVCC	CCYV	2	2	0	4	fR8i	1	CCYV	stiurf	i8Rf	fruits	NOM	90.0	22.0	1.75	1.8	fruit	1	3.7398101827824792
+75836	lampes	l@p	lampe	NOM	f	p	25.86	93.11	3.63	22.23		1	4	0	6	3	CVCCVC	CVC	7	16	0	3	l@p	1	CVC	sepmal	p@l	lam-pes	NOM	96.0	30.0	1.5	1.0	lampe	1	3.101442727976105
+9185	aspect	aspE	aspect	NOM	m	s	12.78	41.28	9.88	36.01		1	2	1	6	4	VCCVCC	VCCV	0	2	5	4	as-pE	2	VC-CV	tcepsa	Epsa	as-pect	NOM	90.0	30.0	2.5	1.8	aspect	1	3.583796677660784
+23379	chatte	Sat	chat	NOM	f	s	93.0	130.74	16.54	29.12		1	2	0	6	3	CCVCCV	CVC	3	25	0	0	Sat	1	CVC	ettahc	taS	chat-te	NOM	100.0	19.0	1.75	1.0	chat	1	3.3714252233284854
+57056	flamme	flam	flamme	NOM	f	s	26.93	71.82	12.61	38.38		1	2	1	6	4	CCVCCV	CCVC	3	10	6	4	flam	1	CCVC	emmalf	malf	flam-me	NOM	100.0	28.0	1.75	1.15	flamme	1	3.647536490579554
+112211	revers	R°vER	revers	NOM	m		3.6	25.0	3.6	25.0		1	1	1	6	5	CVCVCC	CVCVC	2	12	6	5	R°-vER	2	CV-CVC	srever	REv°R	re-vers	NOM	95.0	23.0	1.75	1.0	revers	1	3.2188758248682006
+63784	grille	gRij	grille	NOM	f	s	11.01	58.24	9.09	43.85		2	5	1	6	4	CCVCCV	CCVY	7	13	6	4	gRij	1	CCVY	ellirg	jiRg	gril-le	NOM,VER	100.0	21.0	1.3	1.0	grille	1	3.780774718818192
+23683	cheval	S°val	cheval	NOM	m	s	129.12	179.26	85.42	110.27		1	1	1	6	5	CCVCVC	CVCVC	2	1	6	5	S°-val	2	CV-CVC	lavehc	lav°S	che-val	NOM	100.0	23.0	1.9	1.8	cheval	1	4.702931903770587
+141814	étions	etj§	être	VER			32236.5	15085.47	48.46	89.73	ind:imp:1p;	2	2	0	6	4	VCVVCC	VCYV	2	4	0	0	e-tj§	2	V-CYV	snoité	§jte	é-tions	AUX,VER	100.0	19.0	1.9	1.8	être	1	4.496805161309966
+11751	avions	avj§	avoir	VER			13572.4	6426.49	23.85	46.82	ind:imp:1p;	3	4	0	6	4	VCVVCC	VCYV	0	6	0	4	a-vj§	2	V-CYV	snoiva	§jva	a-vions	NOM,AUX,VER	93.0	16.0	1.7	1.45	avoir	1	3.846310462062765
+61809	gestes	ZEst	geste	NOM		p	40.78	271.08	9.36	99.05		1	2	0	6	4	CVCCVC	CVCC	7	10	0	4	ZEst	1	CVCC	setseg	tsEZ	ges-tes	NOM	100.0	20.0	1.55	1.4	geste	1	4.59562477314456
+135969	vision	vizj§	vision	NOM	f	s	35.48	41.82	25.81	33.78		1	3	1	6	5	CVCVVC	CVCYV	0	5	6	5	vi-zj§	2	CV-CYV	noisiv	§jziv	vi-sion	NOM	100.0	19.0	1.9	1.6	voir-ion	2	3.519868911379654
+126940	talent	tal@	talent	NOM	m	s	44.17	38.11	33.28	31.08		2	2	1	6	4	CVCVCC	CVCV	5	20	6	4	ta-l@	2	CV-CV	tnelat	@lat	ta-lent	VER,NOM	91.0	24.0	1.65	1.0	talent	1	3.436564525499447
+50919	entend	@t@	entendre	VER			728.67	719.12	41.77	63.11	ind:pre:3s;	1	5	0	6	3	VCCVCC	VCV	0	11	0	3	@-t@	2	V-CV	dnetne	@t@	en-tend	VER	100.0	25.0	1.85	1.0	entendre	1	4.144879235596148
+79103	maigre	mEgR	maigre	ADJ		s	12.73	62.7	11.1	41.82		2	4	1	6	4	CVVCCV	CVCC	1	4	6	4	mEgR	1	CVCC	ergiam	RgEm	mai-gre	ADJ,NOM	93.0	29.0	1.7	1.65	maigre	1	3.7333746940004877
+120002	servir	sERviR	servir	VER			309.81	286.22	73.55	74.59	inf;	1	2	1	6	6	CVCCVC	CVCCVC	4	6	6	6	sER-viR	2	CVC-CVC	rivres	RivREs	ser-vir	VER	100.0	24.0	1.7	1.4	servir	1	4.312006449967072
+8714	arriva	aRiva	arriver	VER			1252.42	723.04	5.75	47.5	ind:pas:3s;	1	3	0	6	5	VCCVCV	VCVCV	3	8	0	0	a-Ri-va	3	V-CV-CV	avirra	aviRa	ar-ri-va	VER	100.0	21.0	1.75	1.25	arriver	1	3.8607297110405954
+112181	revenu	R°v°ny	revenir	VER	m	s	618.62	490.54	57.3	42.43	par:pas;	3	10	0	6	6	CVCVCV	CVCVCV	3	6	6	6	R°-v°-ny	3	CV-CV-CV	unever	yn°v°R	re-ve-nu	VER,ADJ,NOM	100.0	27.0	1.7		revenir	1	3.7478556592142334
+84683	mourir	muRiR	mourir	VER			916.4	391.08	234.74	130.61	inf;;	1	1	1	6	5	CVVCVC	CVCVC	1	8	6	4	mu-RiR	2	CV-CVC	riruom	RiRum	mou-rir	VER	100.0	19.0	1.9	1.6	mourir	1	4.8722157835894295
+94988	peuple	p2pl	peuple	NOM	m	s	111.36	107.3	105.65	89.39		2	3	1	6	4	CVVCCV	CVCC	3	1	6	4	p2pl	1	CVCC	elpuep	lp2p	peu-ple	NOM,VER	94.0	37.0	1.7	1.7	peuple	1	4.493008819099761
+16713	boulot	bulo	boulot	NOM	m	s	202.97	35.61	198.68	32.57		2	6	1	6	4	CVVCVC	CVCV	4	18	6	4	bu-lo	2	CV-CV	toluob	olub	bou-lot	ADJ,NOM	100.0	17.0	1.7	1.0	boulot	1	3.4833916192881422
+118677	savoir	savwaR	savoir	NOM	m	s	37.32	41.42	37.27	40.95		2	3	1	6	6	CVCVVC	CVCYVC	4	4	6	6	sa-vwaR	2	CV-CYVC	riovas	Rawvas	sa-voir	NOM,VER	100.0	28.0	1.7	1.7	savoir	1	3.7123518102990785
+93066	passer	pase	passer	VER			1495.49	1165.27	345.68	288.78	inf;;inf;;inf;;	2	14	1	6	4	CVCCVC	CVCV	9	27	6	4	pa-se	2	CV-CV	ressap	esap	pas-ser	VER	95.0	23.0	1.4	1.0	passer	1	5.665665152543073
+119289	second	s°g§	second	ADJ	m	s	52.5	88.58	15.32	32.3		2	4	1	6	4	CVCVCC	CVCV	0	3	6	4	s°-g§	2	CV-CV	dnoces	§g°s	se-cond	ADJ,NOM	100.0	18.0	1.8	1.85	second	1	3.475067230228611
+88240	numéro	nymeRo	numéro	NOM	m	s	173.48	70.07	162.08	60.0		1	2	1	6	6	CVCVCV	CVCVCV	0	0	6	6	ny-me-Ro	3	CV-CV-CV	orémun	oRemyn	nu-mé-ro	NOM	100.0	27.0	2.6	2.25	numéro	1	4.0943445622221
+126708	tables	tabl	table	NOM	f	p	118.37	379.8	6.92	38.72		2	4	0	6	4	CVCCVC	CVCC	5	9	0	4	tabl	1	CVCC	selbat	lbat	ta-bles	NOM,VER	100.0	25.0	1.55	1.0	table	1	3.656356262408376
+120049	seules	s9l	seul	ADJ	f	p	891.45	915.27	17.22	30.27		2	8	0	6	3	CVVCVC	CVC	5	11	0	3	s9l	1	CVC	selues	l9s	seu-les	ADJ,NOM	95.0	23.0	1.65	1.4	seul	1	3.410157123033627
+14292	besoin	b°zw5	besoin	NOM	m	s	771.24	266.62	758.04	251.76		1	2	1	6	5	CVCVVC	CVCYV	0	0	5	4	b°-zw5	2	CV-CYV	nioseb	5wz°b	be-soin	NOM	96.0	31.0	2.05	2.3	besoin	1	5.5284762527561515
+32077	couler	kule	couler	VER			47.56	121.15	14.93	37.7	ind:pre:2p;inf;	1	14	1	6	4	CVVCVC	CVCV	10	23	6	4	ku-le	2	CV-CV	reluoc	eluk	cou-ler	VER	100.0	16.0	1.1	1.0	couler	1	3.629660094453965
+13805	battre	batR	battre	VER			200.35	182.36	75.92	57.36	inf;;inf;;inf;;	1	1	1	6	4	CVCCCV	CVCC	2	12	5	4	batR	1	CVCC	erttab	Rtab	bat-tre	VER	96.0	26.0	1.7	1.0	battre	1	4.0493471962913645
+55069	fameux	fam2	fameux	ADJ	m		18.67	53.11	12.77	33.31		1	1	1	6	4	CVCVVC	CVCV	1	3	6	4	fa-m2	2	CV-CV	xuemaf	2maf	fa-meux	ADJ	100.0	25.0	1.95	1.75	fameux	1	3.5058576522055884
+86024	ménage	menaZ	ménage	NOM	m	s	29.46	32.91	27.55	29.26		2	5	1	6	5	CVCVCV	CVCVC	4	5	6	5	me-naZ	2	CV-CVC	eganém	Zanem	mé-na-ge	NOM,VER	97.0	37.0	1.5	1.45	ménage	1	3.3762213955919784
+4585	alliés	alje	allié	NOM	m	p	11.64	55.34	7.59	48.51		3	18	0	6	4	VCCVVC	VCYV	1	12	0	4	a-lje	2	V-CYV	séilla	ejla	al-liés	VER,ADJ,NOM	95.0	24.0	1.75	1.05	allié	1	3.8817699622571253
+83901	montra	m§tRa	montrer	VER			327.33	276.55	0.77	29.46	ind:pas:3s;	1	2	0	6	5	CVCCCV	CVCCV	4	10	0	0	m§-tRa	2	CV-CCV	artnom	aRt§m	mon-tra	VER	100.0	25.0	1.65	1.25	montrer	1	3.3830334110344844
+119377	secret	s°kRE	secret	NOM	m	s	103.49	96.01	81.34	70.81		2	4	1	6	5	CVCCVC	CVCCV	1	4	5	5	s°-kRE	2	CV-CCV	terces	ERk°s	se-cret	ADJ,NOM	100.0	18.0	1.9	1.7	secret	1	4.260000233663683
+36899	disait	dizE	dire	VER			5946.15	4832.5	94.0	352.3	ind:imp:3s;	1	3	0	6	4	CVCVVC	CVCV	8	12	0	0	di-zE	2	CV-CV	tiasid	Ezid	di-sait	VER	100.0	23.0	1.6	1.2	dire	1	5.864483085347192
+116767	réveil	RevEj	réveil	NOM	m	s	18.43	28.58	18.16	26.22		1	5	1	6	5	CVCVVC	CVCVY	0	2	6	5	Re-vEj	2	CV-CVY	lievér	jEveR	ré-veil	NOM	100.0	22.0	2.55	1.6	réveil	1	3.2665224783355535
+111664	retard	R°taR	retard	NOM	m	s	126.45	46.62	125.65	43.45		1	2	1	6	5	CVCVCC	CVCVC	2	10	6	5	R°-taR	2	CV-CVC	drater	Rat°R	re-tard	NOM	94.0	17.0	1.7	1.45	re-tard	2	3.7716108517114013
+95583	pierre	pjER	pierre	NOM	f	s	67.17	189.86	40.58	119.39		1	3	1	6	4	CVVCCV	CYVC	1	13	6	4	pjER	1	CYVC	erreip	REjp	pier-re	NOM	96.0	30.0	1.9	1.0	pierre	1	4.782395445357297
+117732	salaud	salo	salaud	NOM	m	s	87.4	37.84	66.74	24.86		2	6	1	6	4	CVCVVC	CVCV	0	20	5	4	sa-lo	2	CV-CV	dualas	olas	sa-laud	ADJ,NOM	90.0	30.0	1.95	1.0	salaud	1	3.213260086082565
+138850	écoute	ekut	écouter	VER			470.93	314.05	214.67	83.58	imp:pre:2s;ind:pre:1s;ind:pre:3s;sub:pre:1s;sub:pre:3s;	2	5	0	6	4	VCVVCV	VCVC	4	3	6	4	e-kut	2	V-CVC	etuocé	tuke	é-cou-te	NOM,VER	100.0	13.0	1.55	1.5	écouter	1	4.425804257019769
+40491	décida	desida	décider	VER			207.76	214.19	3.86	36.82	ind:pas:3s;	1	2	0	6	6	CVCVCV	CVCVCV	6	10	0	0	de-si-da	3	CV-CV-CV	adicéd	adised	dé-ci-da	VER	100.0	20.0	1.65	1.35	décider	1	3.6060411758049318
+94941	petite	p°tit	petit	NOM	f	s	221.75	169.66	68.89	45.2		2	4	0	6	5	CVCVCV	CVCVC	1	0	0	0	p°-tit	2	CV-CVC	etitep	tit°p	pe-ti-te	ADJ,NOM	96.0	30.0	1.8	1.95	petit	1	3.8110970868381857
+80271	marché	maRSe	marcher	VER	m	s	364.37	325.61	44.87	23.45	par:pas;	2	7	0	6	5	CVCCCV	CVCCV	2	8	6	5	maR-Se	2	CVC-CV	éhcram	eSRam	mar-ché	VER,NOM	100.0	13.0	1.85	1.35	marcher	1	3.1548704948922883
+99114	pourra	puRa	pouvoir	VER			5524.47	2659.8	85.18	37.36	ind:fut:3s;	1	2	0	6	4	CVVCCV	CVCV	7	20	0	0	pu-Ra	2	CV-CV	arruop	aRup	pour-ra	VER	95.0	21.0	1.55	1.0	pouvoir	1	3.620600613360642
+79994	manqué	m@ke	manquer	VER	m	s	253.94	197.64	38.94	24.53	par:pas;	2	10	0	6	4	CVCCVV	CVCV	5	10	6	4	m@-ke	2	CV-CV	éuqnam	ek@m	man-qué	VER,ADJ	95.0	24.0	1.6	1.35	manquer	1	3.199896858270398
+121192	soirée	swaRe	soirée	NOM	f	s	102.37	76.69	94.36	58.24		1	2	1	6	5	CVVCVV	CYVCV	3	8	5	5	swa-Re	2	CYV-CV	eérios	eRaws	soi-rée	NOM	100.0	27.0	1.8	1.55	soirée	1	4.06457240388843
+79218	maison	mEz§	maison	NOM		s	605.75	575.34	570.3	461.55		1	2	1	6	4	CVVCVC	CVCV	2	8	6	4	mE-z§	2	CV-CV	nosiam	§zEm	mai-son	NOM	93.0	30.0	1.85	1.6	maison	1	6.134590390436161
+87785	normal	nORmal	normal	ADJ	m	s	127.15	62.77	90.98	42.97		2	6	1	6	6	CVCCVC	CVCCVC	0	0	6	6	nOR-mal	2	CVC-CVC	lamron	lamROn	nor-mal	ADJ,NOM	100.0	18.0	1.9	1.95	norme-al	2	3.7605021977869035
+25335	claire	klER	clair	ADJ	f	s	122.69	156.69	21.21	38.04		2	10	0	6	4	CCVVCV	CCVC	7	10	6	4	klER	1	CCVC	erialc	RElk	clai-re	ADJ,NOM	100.0	19.0	1.4	1.05	clair	1	3.6386382376771897
+89344	oeuvre	9vR	oeuvre	NOM		s	41.96	92.23	35.24	68.11		2	5	1	6	3	VVVCCV	VCC	1	3	6	3	9vR	1	VCC	ervueo	Rv9	oeu-vre	NOM,VER	95.0	22.0	1.75	1.65	oeuvre	1	4.221124045253227
+132308	trouvé	tRuve	trouver	VER	m	s	1335.49	972.5	339.29	135.74	par:pas;par:pas;par:pas;	2	10	0	6	5	CCVVCV	CCVCV	3	7	6	5	tRu-ve	2	CCV-CV	évuort	evuRt	trou-vé	VER,ADJ	100.0	19.0	1.7	1.45	trouver	1	4.910741291275612
+32504	cousin	kuz5	cousin	NOM	m	s	73.87	89.93	37.31	39.05		1	2	1	6	4	CVVCVC	CVCV	2	8	6	4	ku-z5	2	CV-CV	nisuoc	5zuk	cou-sin	NOM	100.0	23.0	1.75	1.55	cousin	1	3.664842876285695
+18698	buvait	byvE	boire	VER			339.05	274.32	7.06	23.38	ind:imp:3s;	1	3	0	6	4	CVCVVC	CVCV	5	11	0	0	by-vE	2	CV-CV	tiavub	Evyb	bu-vait	VER	100.0	30.0	1.75	1.4	boire	1	3.1518809560439225
+91339	paille	paj	paille	NOM	f	s	9.43	44.05	8.57	42.97		2	3	1	6	3	CVVCCV	CVY	10	26	6	3	paj	1	CVY	elliap	jap	pail-le	ADJ,NOM	90.0	22.0	1.1	1.0	paille	1	3.7605021977869035
+76943	lignes	liN	ligne	NOM	f	p	89.83	162.3	20.41	61.28		1	2	0	6	3	CVCCVC	CVC	8	19	0	3	liN	1	CVC	sengil	Nil	li-gnes	NOM	100.0	24.0	1.4	1.0	ligne	1	4.1154535254323354
+102515	public	pyblik	public	NOM	m	s	46.97	38.04	46.72	37.91		2	6	1	6	6	CVCCVC	CVCCVC	3	0	6	6	py-blik	2	CV-CCVC	cilbup	kilbyp	pu-blic	ADJ,NOM	100.0	18.0	1.85	1.85	public	1	3.635214929528243
+94940	petite	p°tit	petit	ADJ	f	s	1106.8	1541.96	355.66	491.82		2	4	0	6	5	CVCVCV	CVCVC	1	0	0	0	p°-tit	2	CV-CVC	etitep	tit°p	pe-ti-te	ADJ,NOM	100.0	19.0	1.8	1.95	petit	1	6.198112795892994
+62220	glissa	glisa	glisser	VER			34.75	229.32	0.78	30.61	ind:pas:3s;	1	2	0	6	5	CCVCCV	CCVCV	3	7	0	0	gli-sa	2	CCV-CV	assilg	asilg	glis-sa	VER	100.0	17.0	1.75	1.4	glisser	1	3.421326752957321

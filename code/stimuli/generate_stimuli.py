@@ -17,10 +17,8 @@ fn = '../../data/lexique/Lexique383.tsv'
 df = pd.read_csv(fn, delimiter='\t')
 
 # CONDITIONS
-conditions = ['nbmorph == 1',
-              'nblettres == 6',
-              "cgram in ['NOM', 'ADJ', 'VER']",
-              "nombre == 's'"]
+conditions = ['nblettres == 6',
+              "cgram in ['NOM', 'ADJ', 'VER']"]
 
 n_freq_low, n_freq_high = 90, 90
 
